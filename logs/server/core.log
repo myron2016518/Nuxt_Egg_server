@@ -1,0 +1,1116 @@
+2020-07-30 18:40:07,009 INFO 10972 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-30 18:40:07,092 INFO 10972 [egg-multipart] file mode enable
+2020-07-30 18:40:07,092 INFO 10972 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-30 18:40:07,446 INFO 10972 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-30 18:40:07,452 INFO 10972 [egg-security] use methodnoallow middleware
+2020-07-30 18:40:07,453 INFO 10972 [egg-security] use noopen middleware
+2020-07-30 18:40:07,456 INFO 10972 [egg-security] use nosniff middleware
+2020-07-30 18:40:07,458 INFO 10972 [egg-security] use xssProtection middleware
+2020-07-30 18:40:07,459 INFO 10972 [egg-security] use xframe middleware
+2020-07-30 18:40:07,461 INFO 10972 [egg-security] use dta middleware
+2020-07-30 18:40:07,461 INFO 10972 [egg-security] compose 6 middlewares into one security middleware
+2020-07-30 18:40:07,493 INFO 10972 [egg:core] dump config after load, 18ms
+2020-07-30 18:40:07,523 INFO 10972 [egg-watcher:application] watcher start success
+2020-07-30 18:40:07,542 INFO 10972 [egg:core] dump config after ready, 14ms
+2020-07-30 18:43:16,885 INFO 25124 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-30 18:43:17,033 INFO 25124 [egg-multipart] file mode enable
+2020-07-30 18:43:17,034 INFO 25124 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-30 18:43:17,507 INFO 25124 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-30 18:43:17,536 INFO 25124 [egg-security] use methodnoallow middleware
+2020-07-30 18:43:17,538 INFO 25124 [egg-security] use noopen middleware
+2020-07-30 18:43:17,541 INFO 25124 [egg-security] use nosniff middleware
+2020-07-30 18:43:17,542 INFO 25124 [egg-security] use xssProtection middleware
+2020-07-30 18:43:17,545 INFO 25124 [egg-security] use xframe middleware
+2020-07-30 18:43:17,548 INFO 25124 [egg-security] use dta middleware
+2020-07-30 18:43:17,548 INFO 25124 [egg-security] compose 6 middlewares into one security middleware
+2020-07-30 18:43:17,678 INFO 25124 [egg:core] dump config after load, 105ms
+2020-07-30 18:43:17,706 INFO 25124 [egg-watcher:application] watcher start success
+2020-07-30 18:43:17,743 INFO 25124 [egg:core] dump config after ready, 16ms
+2020-07-30 18:43:28,179 INFO 23384 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-30 18:43:28,305 INFO 23384 [egg-multipart] file mode enable
+2020-07-30 18:43:28,305 INFO 23384 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-30 18:43:28,667 INFO 23384 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-30 18:43:28,675 INFO 23384 [egg-security] use methodnoallow middleware
+2020-07-30 18:43:28,680 INFO 23384 [egg-security] use noopen middleware
+2020-07-30 18:43:28,684 INFO 23384 [egg-security] use nosniff middleware
+2020-07-30 18:43:28,685 INFO 23384 [egg-security] use xssProtection middleware
+2020-07-30 18:43:28,687 INFO 23384 [egg-security] use xframe middleware
+2020-07-30 18:43:28,688 INFO 23384 [egg-security] use dta middleware
+2020-07-30 18:43:28,688 INFO 23384 [egg-security] compose 6 middlewares into one security middleware
+2020-07-30 18:43:28,720 INFO 23384 [egg:core] dump config after load, 14ms
+2020-07-30 18:43:42,313 INFO 23384 [egg-watcher:application] watcher start success
+2020-07-30 18:43:42,361 INFO 23384 [egg:core] dump config after ready, 12ms
+2020-07-30 18:43:54,074 INFO 18008 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-30 18:43:54,198 INFO 18008 [egg-multipart] file mode enable
+2020-07-30 18:43:54,198 INFO 18008 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-30 18:43:54,648 INFO 18008 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-30 18:43:54,656 INFO 18008 [egg-security] use methodnoallow middleware
+2020-07-30 18:43:54,659 INFO 18008 [egg-security] use noopen middleware
+2020-07-30 18:43:54,662 INFO 18008 [egg-security] use nosniff middleware
+2020-07-30 18:43:54,664 INFO 18008 [egg-security] use xssProtection middleware
+2020-07-30 18:43:54,665 INFO 18008 [egg-security] use xframe middleware
+2020-07-30 18:43:54,667 INFO 18008 [egg-security] use dta middleware
+2020-07-30 18:43:54,667 INFO 18008 [egg-security] compose 6 middlewares into one security middleware
+2020-07-30 18:43:54,728 INFO 18008 [egg:core] dump config after load, 16ms
+2020-07-30 18:43:54,786 INFO 18008 [egg-watcher:application] watcher start success
+2020-07-30 18:43:54,809 INFO 18008 [egg:core] dump config after ready, 19ms
+2020-07-30 19:38:49,220 INFO 11932 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-30 19:38:49,304 INFO 11932 [egg-multipart] file mode enable
+2020-07-30 19:38:49,305 INFO 11932 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-30 19:38:49,654 INFO 11932 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-30 19:38:49,660 INFO 11932 [egg-security] use methodnoallow middleware
+2020-07-30 19:38:49,662 INFO 11932 [egg-security] use noopen middleware
+2020-07-30 19:38:49,665 INFO 11932 [egg-security] use nosniff middleware
+2020-07-30 19:38:49,666 INFO 11932 [egg-security] use xssProtection middleware
+2020-07-30 19:38:49,668 INFO 11932 [egg-security] use xframe middleware
+2020-07-30 19:38:49,670 INFO 11932 [egg-security] use dta middleware
+2020-07-30 19:38:49,671 INFO 11932 [egg-security] compose 6 middlewares into one security middleware
+2020-07-30 19:38:49,704 INFO 11932 [egg:core] dump config after load, 17ms
+2020-07-30 19:38:49,736 INFO 11932 [egg-watcher:application] watcher start success
+2020-07-30 19:38:49,751 INFO 11932 [egg:core] dump config after ready, 12ms
+2020-07-30 19:42:02,797 INFO 18952 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-30 19:42:02,876 INFO 18952 [egg-multipart] file mode enable
+2020-07-30 19:42:02,876 INFO 18952 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-30 19:42:03,115 INFO 18952 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-30 19:42:03,126 INFO 18952 [egg-security] use methodnoallow middleware
+2020-07-30 19:42:03,129 INFO 18952 [egg-security] use noopen middleware
+2020-07-30 19:42:03,135 INFO 18952 [egg-security] use nosniff middleware
+2020-07-30 19:42:03,139 INFO 18952 [egg-security] use xssProtection middleware
+2020-07-30 19:42:03,140 INFO 18952 [egg-security] use xframe middleware
+2020-07-30 19:42:03,142 INFO 18952 [egg-security] use dta middleware
+2020-07-30 19:42:03,142 INFO 18952 [egg-security] compose 6 middlewares into one security middleware
+2020-07-30 19:42:03,172 INFO 18952 [egg:core] dump config after load, 15ms
+2020-07-30 19:42:03,212 INFO 18952 [egg-watcher:application] watcher start success
+2020-07-30 19:42:03,232 INFO 18952 [egg:core] dump config after ready, 14ms
+2020-07-30 19:44:51,889 INFO 10156 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-30 19:44:52,014 INFO 10156 [egg-multipart] file mode enable
+2020-07-30 19:44:52,014 INFO 10156 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-30 19:44:52,461 INFO 10156 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-30 19:44:52,469 INFO 10156 [egg-security] use methodnoallow middleware
+2020-07-30 19:44:52,471 INFO 10156 [egg-security] use noopen middleware
+2020-07-30 19:44:52,474 INFO 10156 [egg-security] use nosniff middleware
+2020-07-30 19:44:52,475 INFO 10156 [egg-security] use xssProtection middleware
+2020-07-30 19:44:52,477 INFO 10156 [egg-security] use xframe middleware
+2020-07-30 19:44:52,491 INFO 10156 [egg-security] use dta middleware
+2020-07-30 19:44:52,491 INFO 10156 [egg-security] compose 6 middlewares into one security middleware
+2020-07-30 19:44:52,557 INFO 10156 [egg:core] dump config after load, 41ms
+2020-07-30 19:44:52,601 INFO 10156 [egg-watcher:application] watcher start success
+2020-07-30 19:44:52,629 INFO 10156 [egg:core] dump config after ready, 16ms
+2020-07-30 19:45:02,582 INFO 24444 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-30 19:45:02,681 INFO 24444 [egg-multipart] file mode enable
+2020-07-30 19:45:02,681 INFO 24444 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-30 19:45:03,045 INFO 24444 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-30 19:45:03,051 INFO 24444 [egg-security] use methodnoallow middleware
+2020-07-30 19:45:03,053 INFO 24444 [egg-security] use noopen middleware
+2020-07-30 19:45:03,074 INFO 24444 [egg-security] use nosniff middleware
+2020-07-30 19:45:03,077 INFO 24444 [egg-security] use xssProtection middleware
+2020-07-30 19:45:03,080 INFO 24444 [egg-security] use xframe middleware
+2020-07-30 19:45:03,084 INFO 24444 [egg-security] use dta middleware
+2020-07-30 19:45:03,084 INFO 24444 [egg-security] compose 6 middlewares into one security middleware
+2020-07-30 19:45:03,121 INFO 24444 [egg:core] dump config after load, 18ms
+2020-07-30 19:45:19,939 INFO 24444 [egg-watcher:application] watcher start success
+2020-07-30 19:45:19,976 INFO 24444 [egg:core] dump config after ready, 27ms
+2020-07-30 19:45:31,325 INFO 16420 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-30 19:45:31,474 INFO 16420 [egg-multipart] file mode enable
+2020-07-30 19:45:31,474 INFO 16420 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-30 19:45:32,040 INFO 16420 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-30 19:45:32,049 INFO 16420 [egg-security] use methodnoallow middleware
+2020-07-30 19:45:32,054 INFO 16420 [egg-security] use noopen middleware
+2020-07-30 19:45:32,057 INFO 16420 [egg-security] use nosniff middleware
+2020-07-30 19:45:32,073 INFO 16420 [egg-security] use xssProtection middleware
+2020-07-30 19:45:32,075 INFO 16420 [egg-security] use xframe middleware
+2020-07-30 19:45:32,076 INFO 16420 [egg-security] use dta middleware
+2020-07-30 19:45:32,076 INFO 16420 [egg-security] compose 6 middlewares into one security middleware
+2020-07-30 19:45:32,118 INFO 16420 [egg:core] dump config after load, 26ms
+2020-07-30 19:45:48,547 INFO 16420 [egg-watcher:application] watcher start success
+2020-07-30 19:45:48,577 INFO 16420 [egg:core] dump config after ready, 24ms
+2020-07-31 16:01:45,535 INFO 13308 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 16:01:45,660 INFO 13308 [egg-multipart] file mode enable
+2020-07-31 16:01:45,660 INFO 13308 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 16:01:46,182 INFO 13308 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 16:01:46,190 INFO 13308 [egg-security] use methodnoallow middleware
+2020-07-31 16:01:46,201 INFO 13308 [egg-security] use noopen middleware
+2020-07-31 16:01:46,206 INFO 13308 [egg-security] use nosniff middleware
+2020-07-31 16:01:46,208 INFO 13308 [egg-security] use xssProtection middleware
+2020-07-31 16:01:46,209 INFO 13308 [egg-security] use xframe middleware
+2020-07-31 16:01:46,211 INFO 13308 [egg-security] use dta middleware
+2020-07-31 16:01:46,211 INFO 13308 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 16:01:46,257 INFO 13308 [egg:core] dump config after load, 23ms
+2020-07-31 16:01:46,307 INFO 13308 [egg-watcher:application] watcher start success
+2020-07-31 16:01:46,332 INFO 13308 [egg:core] dump config after ready, 16ms
+2020-07-31 16:13:28,727 INFO 19916 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 16:13:28,864 INFO 19916 [egg-multipart] file mode enable
+2020-07-31 16:13:28,864 INFO 19916 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 16:13:29,261 INFO 19916 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 16:13:29,276 INFO 19916 [egg-security] use methodnoallow middleware
+2020-07-31 16:13:29,278 INFO 19916 [egg-security] use noopen middleware
+2020-07-31 16:13:29,281 INFO 19916 [egg-security] use nosniff middleware
+2020-07-31 16:13:29,284 INFO 19916 [egg-security] use xssProtection middleware
+2020-07-31 16:13:29,287 INFO 19916 [egg-security] use xframe middleware
+2020-07-31 16:13:29,289 INFO 19916 [egg-security] use dta middleware
+2020-07-31 16:13:29,289 INFO 19916 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 16:13:29,353 INFO 19916 [egg:core] dump config after load, 53ms
+2020-07-31 16:13:29,379 INFO 19916 [egg-watcher:application] watcher start success
+2020-07-31 16:13:29,440 INFO 19916 [egg:core] dump config after ready, 56ms
+2020-07-31 16:13:37,616 INFO 13852 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 16:13:37,744 INFO 13852 [egg-multipart] file mode enable
+2020-07-31 16:13:37,744 INFO 13852 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 16:13:38,207 INFO 13852 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 16:13:38,215 INFO 13852 [egg-security] use methodnoallow middleware
+2020-07-31 16:13:38,219 INFO 13852 [egg-security] use noopen middleware
+2020-07-31 16:13:38,222 INFO 13852 [egg-security] use nosniff middleware
+2020-07-31 16:13:38,224 INFO 13852 [egg-security] use xssProtection middleware
+2020-07-31 16:13:38,235 INFO 13852 [egg-security] use xframe middleware
+2020-07-31 16:13:38,255 INFO 13852 [egg-security] use dta middleware
+2020-07-31 16:13:38,255 INFO 13852 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 16:13:38,295 INFO 13852 [egg:core] dump config after load, 24ms
+2020-07-31 16:14:04,058 INFO 13852 [egg-watcher:application] watcher start success
+2020-07-31 16:14:04,219 INFO 13852 [egg:core] dump config after ready, 153ms
+2020-07-31 16:14:23,182 INFO 13528 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 16:14:23,432 INFO 13528 [egg-multipart] file mode enable
+2020-07-31 16:14:23,432 INFO 13528 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 16:14:24,127 INFO 13528 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 16:14:24,134 INFO 13528 [egg-security] use methodnoallow middleware
+2020-07-31 16:14:24,136 INFO 13528 [egg-security] use noopen middleware
+2020-07-31 16:14:24,140 INFO 13528 [egg-security] use nosniff middleware
+2020-07-31 16:14:24,142 INFO 13528 [egg-security] use xssProtection middleware
+2020-07-31 16:14:24,144 INFO 13528 [egg-security] use xframe middleware
+2020-07-31 16:14:24,146 INFO 13528 [egg-security] use dta middleware
+2020-07-31 16:14:24,146 INFO 13528 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 16:14:24,288 INFO 13528 [egg:core] dump config after load, 129ms
+2020-07-31 16:14:47,416 INFO 13528 [egg-watcher:application] watcher start success
+2020-07-31 16:14:47,497 INFO 13528 [egg:core] dump config after ready, 70ms
+2020-07-31 16:14:59,992 INFO 23120 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 16:15:00,105 INFO 23120 [egg-multipart] file mode enable
+2020-07-31 16:15:00,105 INFO 23120 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 16:15:00,654 INFO 23120 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 16:15:00,662 INFO 23120 [egg-security] use methodnoallow middleware
+2020-07-31 16:15:00,664 INFO 23120 [egg-security] use noopen middleware
+2020-07-31 16:15:00,667 INFO 23120 [egg-security] use nosniff middleware
+2020-07-31 16:15:00,668 INFO 23120 [egg-security] use xssProtection middleware
+2020-07-31 16:15:00,672 INFO 23120 [egg-security] use xframe middleware
+2020-07-31 16:15:00,674 INFO 23120 [egg-security] use dta middleware
+2020-07-31 16:15:00,674 INFO 23120 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 16:15:00,750 INFO 23120 [egg:core] dump config after load, 20ms
+2020-07-31 16:15:27,668 INFO 11928 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 16:15:27,775 INFO 11928 [egg-multipart] file mode enable
+2020-07-31 16:15:27,775 INFO 11928 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 16:15:28,239 INFO 11928 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 16:15:28,246 INFO 11928 [egg-security] use methodnoallow middleware
+2020-07-31 16:15:28,249 INFO 11928 [egg-security] use noopen middleware
+2020-07-31 16:15:28,253 INFO 11928 [egg-security] use nosniff middleware
+2020-07-31 16:15:28,254 INFO 11928 [egg-security] use xssProtection middleware
+2020-07-31 16:15:28,256 INFO 11928 [egg-security] use xframe middleware
+2020-07-31 16:15:28,258 INFO 11928 [egg-security] use dta middleware
+2020-07-31 16:15:28,258 INFO 11928 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 16:15:28,421 INFO 11928 [egg:core] dump config after load, 148ms
+2020-07-31 16:15:28,466 INFO 11928 [egg-watcher:application] watcher start success
+2020-07-31 16:15:28,492 INFO 11928 [egg:core] dump config after ready, 21ms
+2020-07-31 16:15:55,083 INFO 24396 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 16:15:55,265 INFO 24396 [egg-multipart] file mode enable
+2020-07-31 16:15:55,265 INFO 24396 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 16:15:58,802 INFO 24396 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 16:15:58,810 INFO 24396 [egg-security] use methodnoallow middleware
+2020-07-31 16:15:58,813 INFO 24396 [egg-security] use noopen middleware
+2020-07-31 16:15:58,815 INFO 24396 [egg-security] use nosniff middleware
+2020-07-31 16:15:58,817 INFO 24396 [egg-security] use xssProtection middleware
+2020-07-31 16:15:58,818 INFO 24396 [egg-security] use xframe middleware
+2020-07-31 16:15:58,820 INFO 24396 [egg-security] use dta middleware
+2020-07-31 16:15:58,820 INFO 24396 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 16:15:58,874 INFO 24396 [egg:core] dump config after load, 17ms
+2020-07-31 16:15:58,959 INFO 24396 [egg-watcher:application] watcher start success
+2020-07-31 16:58:13,660 INFO 11788 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 16:58:13,754 INFO 11788 [egg-multipart] file mode enable
+2020-07-31 16:58:13,754 INFO 11788 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 16:58:15,250 INFO 11788 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 16:58:15,257 INFO 11788 [egg-security] use methodnoallow middleware
+2020-07-31 16:58:15,259 INFO 11788 [egg-security] use noopen middleware
+2020-07-31 16:58:15,262 INFO 11788 [egg-security] use nosniff middleware
+2020-07-31 16:58:15,264 INFO 11788 [egg-security] use xssProtection middleware
+2020-07-31 16:58:15,266 INFO 11788 [egg-security] use xframe middleware
+2020-07-31 16:58:15,268 INFO 11788 [egg-security] use dta middleware
+2020-07-31 16:58:15,268 INFO 11788 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 16:58:15,302 INFO 11788 [egg:core] dump config after load, 22ms
+2020-07-31 16:58:15,389 INFO 11788 [egg-watcher:application] watcher start success
+2020-07-31 16:58:15,441 INFO 11788 [egg:core] dump config after ready, 14ms
+2020-07-31 17:10:23,205 INFO 3900 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 17:10:23,304 INFO 3900 [egg-multipart] file mode enable
+2020-07-31 17:10:23,304 INFO 3900 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 17:10:24,436 INFO 3900 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 17:10:24,442 INFO 3900 [egg-security] use methodnoallow middleware
+2020-07-31 17:10:24,444 INFO 3900 [egg-security] use noopen middleware
+2020-07-31 17:10:24,447 INFO 3900 [egg-security] use nosniff middleware
+2020-07-31 17:10:24,449 INFO 3900 [egg-security] use xssProtection middleware
+2020-07-31 17:10:24,450 INFO 3900 [egg-security] use xframe middleware
+2020-07-31 17:10:24,452 INFO 3900 [egg-security] use dta middleware
+2020-07-31 17:10:24,452 INFO 3900 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 17:10:24,476 INFO 3900 [egg:core] dump config after load, 14ms
+2020-07-31 17:10:24,579 INFO 3900 [egg-watcher:application] watcher start success
+2020-07-31 17:10:24,705 INFO 3900 [egg:core] dump config after ready, 59ms
+2020-07-31 17:14:03,029 INFO 23412 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 17:14:03,180 INFO 23412 [egg-multipart] file mode enable
+2020-07-31 17:14:03,181 INFO 23412 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 17:14:05,531 INFO 23412 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 17:14:05,585 INFO 23412 [egg-security] use methodnoallow middleware
+2020-07-31 17:14:05,660 INFO 23412 [egg-security] use noopen middleware
+2020-07-31 17:14:05,662 INFO 23412 [egg-security] use nosniff middleware
+2020-07-31 17:14:05,663 INFO 23412 [egg-security] use xssProtection middleware
+2020-07-31 17:14:05,664 INFO 23412 [egg-security] use xframe middleware
+2020-07-31 17:14:05,666 INFO 23412 [egg-security] use dta middleware
+2020-07-31 17:14:05,666 INFO 23412 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 17:14:05,683 INFO 23412 [egg:core] dump config after load, 9ms
+2020-07-31 17:14:05,814 INFO 23412 [egg-watcher:application] watcher start success
+2020-07-31 17:14:05,931 INFO 23412 [egg:core] dump config after ready, 20ms
+2020-07-31 17:15:55,005 INFO 18472 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 17:15:55,132 INFO 18472 [egg-multipart] file mode enable
+2020-07-31 17:15:55,132 INFO 18472 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 17:15:57,188 INFO 18472 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 17:15:57,199 INFO 18472 [egg-security] use methodnoallow middleware
+2020-07-31 17:15:57,205 INFO 18472 [egg-security] use noopen middleware
+2020-07-31 17:15:57,210 INFO 18472 [egg-security] use nosniff middleware
+2020-07-31 17:15:57,214 INFO 18472 [egg-security] use xssProtection middleware
+2020-07-31 17:15:57,216 INFO 18472 [egg-security] use xframe middleware
+2020-07-31 17:15:57,222 INFO 18472 [egg-security] use dta middleware
+2020-07-31 17:15:57,222 INFO 18472 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 17:15:57,292 INFO 18472 [egg:core] dump config after load, 43ms
+2020-07-31 17:15:57,384 INFO 18472 [egg-watcher:application] watcher start success
+2020-07-31 17:15:57,554 INFO 18472 [egg:core] dump config after ready, 20ms
+2020-07-31 17:43:46,329 INFO 28328 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 17:43:46,463 INFO 28328 [egg-multipart] file mode enable
+2020-07-31 17:43:46,463 INFO 28328 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 17:43:48,596 INFO 28328 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 17:43:48,603 INFO 28328 [egg-security] use methodnoallow middleware
+2020-07-31 17:43:48,607 INFO 28328 [egg-security] use noopen middleware
+2020-07-31 17:43:48,610 INFO 28328 [egg-security] use nosniff middleware
+2020-07-31 17:43:48,612 INFO 28328 [egg-security] use xssProtection middleware
+2020-07-31 17:43:48,614 INFO 28328 [egg-security] use xframe middleware
+2020-07-31 17:43:48,616 INFO 28328 [egg-security] use dta middleware
+2020-07-31 17:43:48,616 INFO 28328 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 17:43:48,678 INFO 28328 [egg:core] dump config after load, 21ms
+2020-07-31 17:43:48,868 INFO 28328 [egg-watcher:application] watcher start success
+2020-07-31 17:43:48,937 INFO 28328 [egg:core] dump config after ready, 23ms
+2020-07-31 17:59:23,621 INFO 19916 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 17:59:23,759 INFO 19916 [egg-multipart] file mode enable
+2020-07-31 17:59:23,759 INFO 19916 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 17:59:25,702 INFO 19916 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 17:59:25,710 INFO 19916 [egg-security] use methodnoallow middleware
+2020-07-31 17:59:25,711 INFO 19916 [egg-security] use noopen middleware
+2020-07-31 17:59:25,714 INFO 19916 [egg-security] use nosniff middleware
+2020-07-31 17:59:25,716 INFO 19916 [egg-security] use xssProtection middleware
+2020-07-31 17:59:25,718 INFO 19916 [egg-security] use xframe middleware
+2020-07-31 17:59:25,720 INFO 19916 [egg-security] use dta middleware
+2020-07-31 17:59:25,720 INFO 19916 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 17:59:25,761 INFO 19916 [egg:core] dump config after load, 21ms
+2020-07-31 17:59:25,816 INFO 19916 [egg-watcher:application] watcher start success
+2020-07-31 17:59:25,913 INFO 19916 [egg:core] dump config after ready, 14ms
+2020-07-31 18:00:48,039 INFO 19932 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:00:48,119 INFO 19932 [egg-multipart] file mode enable
+2020-07-31 18:00:48,119 INFO 19932 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:00:48,903 INFO 19932 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:00:48,908 INFO 19932 [egg-security] use methodnoallow middleware
+2020-07-31 18:00:48,909 INFO 19932 [egg-security] use noopen middleware
+2020-07-31 18:00:48,911 INFO 19932 [egg-security] use nosniff middleware
+2020-07-31 18:00:48,912 INFO 19932 [egg-security] use xssProtection middleware
+2020-07-31 18:00:48,913 INFO 19932 [egg-security] use xframe middleware
+2020-07-31 18:00:48,914 INFO 19932 [egg-security] use dta middleware
+2020-07-31 18:00:48,914 INFO 19932 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:00:48,933 INFO 19932 [egg:core] dump config after load, 10ms
+2020-07-31 18:00:48,988 INFO 19932 [egg-watcher:application] watcher start success
+2020-07-31 18:00:49,022 INFO 19932 [egg:core] dump config after ready, 10ms
+2020-07-31 18:01:36,754 INFO 8516 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:01:36,878 INFO 8516 [egg-multipart] file mode enable
+2020-07-31 18:01:36,878 INFO 8516 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:01:38,822 INFO 8516 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:01:38,829 INFO 8516 [egg-security] use methodnoallow middleware
+2020-07-31 18:01:38,831 INFO 8516 [egg-security] use noopen middleware
+2020-07-31 18:01:38,834 INFO 8516 [egg-security] use nosniff middleware
+2020-07-31 18:01:38,836 INFO 8516 [egg-security] use xssProtection middleware
+2020-07-31 18:01:38,838 INFO 8516 [egg-security] use xframe middleware
+2020-07-31 18:01:38,840 INFO 8516 [egg-security] use dta middleware
+2020-07-31 18:01:38,840 INFO 8516 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:01:38,905 INFO 8516 [egg:core] dump config after load, 29ms
+2020-07-31 18:01:39,067 INFO 8516 [egg-watcher:application] watcher start success
+2020-07-31 18:01:39,149 INFO 8516 [egg:core] dump config after ready, 18ms
+2020-07-31 18:02:34,891 INFO 14296 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:02:35,023 INFO 14296 [egg-multipart] file mode enable
+2020-07-31 18:02:35,023 INFO 14296 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:02:37,086 INFO 14296 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:02:37,093 INFO 14296 [egg-security] use methodnoallow middleware
+2020-07-31 18:02:37,098 INFO 14296 [egg-security] use noopen middleware
+2020-07-31 18:02:37,102 INFO 14296 [egg-security] use nosniff middleware
+2020-07-31 18:02:37,103 INFO 14296 [egg-security] use xssProtection middleware
+2020-07-31 18:02:37,105 INFO 14296 [egg-security] use xframe middleware
+2020-07-31 18:02:37,107 INFO 14296 [egg-security] use dta middleware
+2020-07-31 18:02:37,107 INFO 14296 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:02:37,160 INFO 14296 [egg:core] dump config after load, 27ms
+2020-07-31 18:02:37,256 INFO 14296 [egg-watcher:application] watcher start success
+2020-07-31 18:02:37,419 INFO 14296 [egg:core] dump config after ready, 36ms
+2020-07-31 18:03:18,828 INFO 11340 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:03:18,951 INFO 11340 [egg-multipart] file mode enable
+2020-07-31 18:03:18,951 INFO 11340 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:03:21,382 INFO 11340 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:03:21,391 INFO 11340 [egg-security] use methodnoallow middleware
+2020-07-31 18:03:21,393 INFO 11340 [egg-security] use noopen middleware
+2020-07-31 18:03:21,396 INFO 11340 [egg-security] use nosniff middleware
+2020-07-31 18:03:21,397 INFO 11340 [egg-security] use xssProtection middleware
+2020-07-31 18:03:21,399 INFO 11340 [egg-security] use xframe middleware
+2020-07-31 18:03:21,402 INFO 11340 [egg-security] use dta middleware
+2020-07-31 18:03:21,402 INFO 11340 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:03:21,447 INFO 11340 [egg:core] dump config after load, 18ms
+2020-07-31 18:03:21,521 INFO 11340 [egg-watcher:application] watcher start success
+2020-07-31 18:03:21,830 INFO 11340 [egg:core] dump config after ready, 106ms
+2020-07-31 18:03:38,922 INFO 24384 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:03:39,120 INFO 24384 [egg-multipart] file mode enable
+2020-07-31 18:03:39,120 INFO 24384 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:03:42,467 INFO 24384 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:03:42,475 INFO 24384 [egg-security] use methodnoallow middleware
+2020-07-31 18:03:42,477 INFO 24384 [egg-security] use noopen middleware
+2020-07-31 18:03:42,481 INFO 24384 [egg-security] use nosniff middleware
+2020-07-31 18:03:42,483 INFO 24384 [egg-security] use xssProtection middleware
+2020-07-31 18:03:42,500 INFO 24384 [egg-security] use xframe middleware
+2020-07-31 18:03:42,502 INFO 24384 [egg-security] use dta middleware
+2020-07-31 18:03:42,502 INFO 24384 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:03:42,569 INFO 24384 [egg:core] dump config after load, 28ms
+2020-07-31 18:03:42,836 INFO 24384 [egg-watcher:application] watcher start success
+2020-07-31 18:03:43,072 INFO 24384 [egg:core] dump config after ready, 155ms
+2020-07-31 18:06:36,636 INFO 22324 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:06:36,742 INFO 22324 [egg-multipart] file mode enable
+2020-07-31 18:06:36,742 INFO 22324 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:06:38,291 INFO 22324 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:06:38,299 INFO 22324 [egg-security] use methodnoallow middleware
+2020-07-31 18:06:38,302 INFO 22324 [egg-security] use noopen middleware
+2020-07-31 18:06:38,304 INFO 22324 [egg-security] use nosniff middleware
+2020-07-31 18:06:38,306 INFO 22324 [egg-security] use xssProtection middleware
+2020-07-31 18:06:38,308 INFO 22324 [egg-security] use xframe middleware
+2020-07-31 18:06:38,309 INFO 22324 [egg-security] use dta middleware
+2020-07-31 18:06:38,309 INFO 22324 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:06:38,395 INFO 22324 [egg:core] dump config after load, 71ms
+2020-07-31 18:06:38,543 INFO 22324 [egg-watcher:application] watcher start success
+2020-07-31 18:06:38,612 INFO 22324 [egg:core] dump config after ready, 15ms
+2020-07-31 18:06:58,270 INFO 23756 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:06:58,412 INFO 23756 [egg-multipart] file mode enable
+2020-07-31 18:06:58,412 INFO 23756 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:07:01,181 INFO 23756 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:07:01,188 INFO 23756 [egg-security] use methodnoallow middleware
+2020-07-31 18:07:01,221 INFO 23756 [egg-security] use noopen middleware
+2020-07-31 18:07:01,224 INFO 23756 [egg-security] use nosniff middleware
+2020-07-31 18:07:01,225 INFO 23756 [egg-security] use xssProtection middleware
+2020-07-31 18:07:01,227 INFO 23756 [egg-security] use xframe middleware
+2020-07-31 18:07:01,229 INFO 23756 [egg-security] use dta middleware
+2020-07-31 18:07:01,229 INFO 23756 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:07:01,322 INFO 23756 [egg:core] dump config after load, 75ms
+2020-07-31 18:07:01,398 INFO 23756 [egg-watcher:application] watcher start success
+2020-07-31 18:07:01,548 INFO 23756 [egg:core] dump config after ready, 14ms
+2020-07-31 18:08:54,608 INFO 7776 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:08:54,655 INFO 7776 [egg-multipart] file mode enable
+2020-07-31 18:08:54,655 INFO 7776 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:08:55,457 INFO 7776 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:08:55,465 INFO 7776 [egg-security] use methodnoallow middleware
+2020-07-31 18:08:55,467 INFO 7776 [egg-security] use noopen middleware
+2020-07-31 18:08:55,470 INFO 7776 [egg-security] use nosniff middleware
+2020-07-31 18:08:55,471 INFO 7776 [egg-security] use xssProtection middleware
+2020-07-31 18:08:55,473 INFO 7776 [egg-security] use xframe middleware
+2020-07-31 18:08:55,475 INFO 7776 [egg-security] use dta middleware
+2020-07-31 18:08:55,476 INFO 7776 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:08:55,498 INFO 7776 [egg:core] dump config after load, 12ms
+2020-07-31 18:08:55,550 INFO 7776 [egg-watcher:application] watcher start success
+2020-07-31 18:08:55,603 INFO 7776 [egg:core] dump config after ready, 9ms
+2020-07-31 18:15:18,107 INFO 3476 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:15:18,222 INFO 3476 [egg-multipart] file mode enable
+2020-07-31 18:15:18,222 INFO 3476 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:15:20,769 INFO 3476 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:15:20,774 INFO 3476 [egg-security] use methodnoallow middleware
+2020-07-31 18:15:20,776 INFO 3476 [egg-security] use noopen middleware
+2020-07-31 18:15:20,778 INFO 3476 [egg-security] use nosniff middleware
+2020-07-31 18:15:20,780 INFO 3476 [egg-security] use xssProtection middleware
+2020-07-31 18:15:20,782 INFO 3476 [egg-security] use xframe middleware
+2020-07-31 18:15:20,784 INFO 3476 [egg-security] use dta middleware
+2020-07-31 18:15:20,784 INFO 3476 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:15:20,823 INFO 3476 [egg:core] dump config after load, 12ms
+2020-07-31 18:15:20,902 INFO 3476 [egg-watcher:application] watcher start success
+2020-07-31 18:15:21,013 INFO 3476 [egg:core] dump config after ready, 14ms
+2020-07-31 18:16:12,500 INFO 13332 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:16:12,709 INFO 13332 [egg-multipart] file mode enable
+2020-07-31 18:16:12,709 INFO 13332 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:16:15,765 INFO 13332 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:16:15,792 INFO 13332 [egg-security] use methodnoallow middleware
+2020-07-31 18:16:15,799 INFO 13332 [egg-security] use noopen middleware
+2020-07-31 18:16:15,802 INFO 13332 [egg-security] use nosniff middleware
+2020-07-31 18:16:15,803 INFO 13332 [egg-security] use xssProtection middleware
+2020-07-31 18:16:15,807 INFO 13332 [egg-security] use xframe middleware
+2020-07-31 18:16:15,819 INFO 13332 [egg-security] use dta middleware
+2020-07-31 18:16:15,819 INFO 13332 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:16:15,870 INFO 13332 [egg:core] dump config after load, 36ms
+2020-07-31 18:16:16,085 INFO 13332 [egg-watcher:application] watcher start success
+2020-07-31 18:16:16,262 INFO 13332 [egg:core] dump config after ready, 14ms
+2020-07-31 18:17:24,089 INFO 8080 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:17:24,167 INFO 8080 [egg-multipart] file mode enable
+2020-07-31 18:17:24,167 INFO 8080 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:17:26,170 INFO 8080 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:17:26,180 INFO 8080 [egg-security] use methodnoallow middleware
+2020-07-31 18:17:26,183 INFO 8080 [egg-security] use noopen middleware
+2020-07-31 18:17:26,185 INFO 8080 [egg-security] use nosniff middleware
+2020-07-31 18:17:26,224 INFO 8080 [egg-security] use xssProtection middleware
+2020-07-31 18:17:26,228 INFO 8080 [egg-security] use xframe middleware
+2020-07-31 18:17:26,232 INFO 8080 [egg-security] use dta middleware
+2020-07-31 18:17:26,232 INFO 8080 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:17:26,306 INFO 8080 [egg:core] dump config after load, 52ms
+2020-07-31 18:17:26,528 INFO 8080 [egg-watcher:application] watcher start success
+2020-07-31 18:17:26,690 INFO 8080 [egg:core] dump config after ready, 45ms
+2020-07-31 18:18:39,662 INFO 32 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:18:39,784 INFO 32 [egg-multipart] file mode enable
+2020-07-31 18:18:39,784 INFO 32 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:18:41,913 INFO 32 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:18:41,924 INFO 32 [egg-security] use methodnoallow middleware
+2020-07-31 18:18:41,927 INFO 32 [egg-security] use noopen middleware
+2020-07-31 18:18:41,929 INFO 32 [egg-security] use nosniff middleware
+2020-07-31 18:18:41,932 INFO 32 [egg-security] use xssProtection middleware
+2020-07-31 18:18:41,934 INFO 32 [egg-security] use xframe middleware
+2020-07-31 18:18:41,936 INFO 32 [egg-security] use dta middleware
+2020-07-31 18:18:41,936 INFO 32 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:18:41,974 INFO 32 [egg:core] dump config after load, 24ms
+2020-07-31 18:18:42,145 INFO 32 [egg-watcher:application] watcher start success
+2020-07-31 18:18:42,207 INFO 32 [egg:core] dump config after ready, 16ms
+2020-07-31 18:18:51,990 INFO 26440 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-07-31 18:18:52,097 INFO 26440 [egg-multipart] file mode enable
+2020-07-31 18:18:52,097 INFO 26440 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-07-31 18:18:54,544 INFO 26440 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-07-31 18:18:54,555 INFO 26440 [egg-security] use methodnoallow middleware
+2020-07-31 18:18:54,559 INFO 26440 [egg-security] use noopen middleware
+2020-07-31 18:18:54,562 INFO 26440 [egg-security] use nosniff middleware
+2020-07-31 18:18:54,564 INFO 26440 [egg-security] use xssProtection middleware
+2020-07-31 18:18:54,574 INFO 26440 [egg-security] use xframe middleware
+2020-07-31 18:18:54,577 INFO 26440 [egg-security] use dta middleware
+2020-07-31 18:18:54,577 INFO 26440 [egg-security] compose 6 middlewares into one security middleware
+2020-07-31 18:18:54,655 INFO 26440 [egg:core] dump config after load, 61ms
+2020-07-31 18:19:15,310 INFO 26440 [egg-watcher:application] watcher start success
+2020-07-31 18:19:25,215 INFO 26440 [egg:core] dump config after ready, 31ms
+2020-08-06 10:28:09,810 INFO 6164 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 10:28:10,041 INFO 6164 [egg-multipart] file mode enable
+2020-08-06 10:28:10,041 INFO 6164 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 10:28:12,667 INFO 6164 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 10:28:12,672 INFO 6164 [egg-security] use methodnoallow middleware
+2020-08-06 10:28:12,674 INFO 6164 [egg-security] use noopen middleware
+2020-08-06 10:28:12,677 INFO 6164 [egg-security] use nosniff middleware
+2020-08-06 10:28:12,681 INFO 6164 [egg-security] use xssProtection middleware
+2020-08-06 10:28:12,682 INFO 6164 [egg-security] use xframe middleware
+2020-08-06 10:28:12,684 INFO 6164 [egg-security] use dta middleware
+2020-08-06 10:28:12,684 INFO 6164 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 10:28:12,745 INFO 6164 [egg:core] dump config after load, 28ms
+2020-08-06 10:28:12,964 INFO 6164 [egg-watcher:application] watcher start success
+2020-08-06 10:28:13,096 INFO 6164 [egg:core] dump config after ready, 18ms
+2020-08-06 10:30:50,381 INFO 23412 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 10:30:50,499 INFO 23412 [egg-multipart] file mode enable
+2020-08-06 10:30:50,499 INFO 23412 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 10:30:52,428 INFO 23412 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 10:30:52,433 INFO 23412 [egg-security] use methodnoallow middleware
+2020-08-06 10:30:52,435 INFO 23412 [egg-security] use noopen middleware
+2020-08-06 10:30:52,438 INFO 23412 [egg-security] use nosniff middleware
+2020-08-06 10:30:52,478 INFO 23412 [egg-security] use xssProtection middleware
+2020-08-06 10:30:52,481 INFO 23412 [egg-security] use xframe middleware
+2020-08-06 10:30:52,483 INFO 23412 [egg-security] use dta middleware
+2020-08-06 10:30:52,483 INFO 23412 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 10:30:52,627 INFO 23412 [egg:core] dump config after load, 131ms
+2020-08-06 10:30:52,766 INFO 23412 [egg-watcher:application] watcher start success
+2020-08-06 10:30:52,855 INFO 23412 [egg:core] dump config after ready, 16ms
+2020-08-06 10:32:33,288 INFO 20368 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 10:32:33,439 INFO 20368 [egg-multipart] file mode enable
+2020-08-06 10:32:33,439 INFO 20368 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 10:32:35,591 INFO 20368 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 10:32:35,597 INFO 20368 [egg-security] use methodnoallow middleware
+2020-08-06 10:32:35,603 INFO 20368 [egg-security] use noopen middleware
+2020-08-06 10:32:35,606 INFO 20368 [egg-security] use nosniff middleware
+2020-08-06 10:32:35,608 INFO 20368 [egg-security] use xssProtection middleware
+2020-08-06 10:32:35,609 INFO 20368 [egg-security] use xframe middleware
+2020-08-06 10:32:35,612 INFO 20368 [egg-security] use dta middleware
+2020-08-06 10:32:35,612 INFO 20368 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 10:32:35,675 INFO 20368 [egg:core] dump config after load, 50ms
+2020-08-06 10:32:35,826 INFO 20368 [egg-watcher:application] watcher start success
+2020-08-06 10:32:35,937 INFO 20368 [egg:core] dump config after ready, 32ms
+2020-08-06 10:33:04,485 INFO 22500 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 10:33:04,664 INFO 22500 [egg-multipart] file mode enable
+2020-08-06 10:33:04,664 INFO 22500 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 10:33:06,585 INFO 22500 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 10:33:06,591 INFO 22500 [egg-security] use methodnoallow middleware
+2020-08-06 10:33:06,594 INFO 22500 [egg-security] use noopen middleware
+2020-08-06 10:33:06,608 INFO 22500 [egg-security] use nosniff middleware
+2020-08-06 10:33:06,615 INFO 22500 [egg-security] use xssProtection middleware
+2020-08-06 10:33:06,617 INFO 22500 [egg-security] use xframe middleware
+2020-08-06 10:33:06,619 INFO 22500 [egg-security] use dta middleware
+2020-08-06 10:33:06,619 INFO 22500 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 10:33:06,692 INFO 22500 [egg:core] dump config after load, 42ms
+2020-08-06 10:33:06,846 INFO 22500 [egg-watcher:application] watcher start success
+2020-08-06 10:33:06,954 INFO 22500 [egg:core] dump config after ready, 15ms
+2020-08-06 10:36:08,601 INFO 14844 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 10:36:08,732 INFO 14844 [egg-multipart] file mode enable
+2020-08-06 10:36:08,732 INFO 14844 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 10:36:10,486 INFO 14844 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 10:36:10,495 INFO 14844 [egg-security] use methodnoallow middleware
+2020-08-06 10:36:10,497 INFO 14844 [egg-security] use noopen middleware
+2020-08-06 10:36:10,500 INFO 14844 [egg-security] use nosniff middleware
+2020-08-06 10:36:10,501 INFO 14844 [egg-security] use xssProtection middleware
+2020-08-06 10:36:10,509 INFO 14844 [egg-security] use xframe middleware
+2020-08-06 10:36:10,511 INFO 14844 [egg-security] use dta middleware
+2020-08-06 10:36:10,511 INFO 14844 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 10:36:10,589 INFO 14844 [egg:core] dump config after load, 62ms
+2020-08-06 10:36:10,731 INFO 14844 [egg-watcher:application] watcher start success
+2020-08-06 10:36:10,803 INFO 14844 [egg:core] dump config after ready, 17ms
+2020-08-06 10:40:00,462 INFO 2668 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 10:40:00,568 INFO 2668 [egg-multipart] file mode enable
+2020-08-06 10:40:00,568 INFO 2668 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 10:40:02,459 INFO 2668 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 10:40:02,468 INFO 2668 [egg-security] use methodnoallow middleware
+2020-08-06 10:40:02,470 INFO 2668 [egg-security] use noopen middleware
+2020-08-06 10:40:02,478 INFO 2668 [egg-security] use nosniff middleware
+2020-08-06 10:40:02,481 INFO 2668 [egg-security] use xssProtection middleware
+2020-08-06 10:40:02,483 INFO 2668 [egg-security] use xframe middleware
+2020-08-06 10:40:02,485 INFO 2668 [egg-security] use dta middleware
+2020-08-06 10:40:02,485 INFO 2668 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 10:40:02,524 INFO 2668 [egg:core] dump config after load, 28ms
+2020-08-06 10:40:02,646 INFO 2668 [egg-watcher:application] watcher start success
+2020-08-06 10:40:02,731 INFO 2668 [egg:core] dump config after ready, 30ms
+2020-08-06 10:43:05,788 INFO 17016 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 10:43:05,932 INFO 17016 [egg-multipart] file mode enable
+2020-08-06 10:43:05,932 INFO 17016 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 10:43:08,173 INFO 17016 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 10:43:08,181 INFO 17016 [egg-security] use methodnoallow middleware
+2020-08-06 10:43:08,188 INFO 17016 [egg-security] use noopen middleware
+2020-08-06 10:43:08,193 INFO 17016 [egg-security] use nosniff middleware
+2020-08-06 10:43:08,195 INFO 17016 [egg-security] use xssProtection middleware
+2020-08-06 10:43:08,197 INFO 17016 [egg-security] use xframe middleware
+2020-08-06 10:43:08,199 INFO 17016 [egg-security] use dta middleware
+2020-08-06 10:43:08,199 INFO 17016 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 10:43:08,300 INFO 17016 [egg:core] dump config after load, 72ms
+2020-08-06 10:43:08,502 INFO 17016 [egg-watcher:application] watcher start success
+2020-08-06 10:43:08,591 INFO 17016 [egg:core] dump config after ready, 16ms
+2020-08-06 10:59:03,947 INFO 12816 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 10:59:04,013 INFO 12816 [egg-multipart] file mode enable
+2020-08-06 10:59:04,013 INFO 12816 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 10:59:04,706 INFO 12816 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 10:59:04,710 INFO 12816 [egg-security] use methodnoallow middleware
+2020-08-06 10:59:04,711 INFO 12816 [egg-security] use noopen middleware
+2020-08-06 10:59:04,713 INFO 12816 [egg-security] use nosniff middleware
+2020-08-06 10:59:04,714 INFO 12816 [egg-security] use xssProtection middleware
+2020-08-06 10:59:04,715 INFO 12816 [egg-security] use xframe middleware
+2020-08-06 10:59:04,716 INFO 12816 [egg-security] use dta middleware
+2020-08-06 10:59:04,716 INFO 12816 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 10:59:04,736 INFO 12816 [egg:core] dump config after load, 11ms
+2020-08-06 10:59:04,788 INFO 12816 [egg-watcher:application] watcher start success
+2020-08-06 10:59:04,819 INFO 12816 [egg:core] dump config after ready, 11ms
+2020-08-06 11:00:28,112 INFO 26140 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:00:28,368 INFO 26140 [egg-multipart] file mode enable
+2020-08-06 11:00:28,368 INFO 26140 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:00:30,369 INFO 26140 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:00:30,388 INFO 26140 [egg-security] use methodnoallow middleware
+2020-08-06 11:00:30,391 INFO 26140 [egg-security] use noopen middleware
+2020-08-06 11:00:30,393 INFO 26140 [egg-security] use nosniff middleware
+2020-08-06 11:00:30,395 INFO 26140 [egg-security] use xssProtection middleware
+2020-08-06 11:00:30,397 INFO 26140 [egg-security] use xframe middleware
+2020-08-06 11:00:30,400 INFO 26140 [egg-security] use dta middleware
+2020-08-06 11:00:30,400 INFO 26140 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:00:30,441 INFO 26140 [egg:core] dump config after load, 29ms
+2020-08-06 11:00:30,560 INFO 26140 [egg-watcher:application] watcher start success
+2020-08-06 11:00:30,669 INFO 26140 [egg:core] dump config after ready, 58ms
+2020-08-06 11:05:46,544 INFO 27544 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:05:46,779 INFO 27544 [egg-multipart] file mode enable
+2020-08-06 11:05:46,779 INFO 27544 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:05:48,921 INFO 27544 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:05:48,927 INFO 27544 [egg-security] use methodnoallow middleware
+2020-08-06 11:05:48,928 INFO 27544 [egg-security] use noopen middleware
+2020-08-06 11:05:48,931 INFO 27544 [egg-security] use nosniff middleware
+2020-08-06 11:05:48,933 INFO 27544 [egg-security] use xssProtection middleware
+2020-08-06 11:05:48,935 INFO 27544 [egg-security] use xframe middleware
+2020-08-06 11:05:48,937 INFO 27544 [egg-security] use dta middleware
+2020-08-06 11:05:48,937 INFO 27544 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:05:48,985 INFO 27544 [egg:core] dump config after load, 16ms
+2020-08-06 11:05:49,146 INFO 27544 [egg-watcher:application] watcher start success
+2020-08-06 11:05:49,224 INFO 27544 [egg:core] dump config after ready, 16ms
+2020-08-06 11:05:54,751 INFO 25692 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:05:54,872 INFO 25692 [egg-multipart] file mode enable
+2020-08-06 11:05:54,872 INFO 25692 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:05:57,341 INFO 25692 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:05:57,354 INFO 25692 [egg-security] use methodnoallow middleware
+2020-08-06 11:05:57,356 INFO 25692 [egg-security] use noopen middleware
+2020-08-06 11:05:57,361 INFO 25692 [egg-security] use nosniff middleware
+2020-08-06 11:05:57,363 INFO 25692 [egg-security] use xssProtection middleware
+2020-08-06 11:05:57,366 INFO 25692 [egg-security] use xframe middleware
+2020-08-06 11:05:57,369 INFO 25692 [egg-security] use dta middleware
+2020-08-06 11:05:57,369 INFO 25692 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:05:57,592 INFO 25692 [egg:core] dump config after load, 128ms
+2020-08-06 11:06:16,178 INFO 25692 [egg-watcher:application] watcher start success
+2020-08-06 11:06:25,123 INFO 25692 [egg:core] dump config after ready, 57ms
+2020-08-06 11:09:11,445 INFO 9064 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:09:11,565 INFO 9064 [egg-multipart] file mode enable
+2020-08-06 11:09:11,565 INFO 9064 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:09:13,724 INFO 9064 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:09:13,736 INFO 9064 [egg-security] use methodnoallow middleware
+2020-08-06 11:09:13,738 INFO 9064 [egg-security] use noopen middleware
+2020-08-06 11:09:13,740 INFO 9064 [egg-security] use nosniff middleware
+2020-08-06 11:09:13,744 INFO 9064 [egg-security] use xssProtection middleware
+2020-08-06 11:09:13,747 INFO 9064 [egg-security] use xframe middleware
+2020-08-06 11:09:13,748 INFO 9064 [egg-security] use dta middleware
+2020-08-06 11:09:13,749 INFO 9064 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:09:13,825 INFO 9064 [egg:core] dump config after load, 38ms
+2020-08-06 11:09:13,971 INFO 9064 [egg-watcher:application] watcher start success
+2020-08-06 11:09:14,136 INFO 9064 [egg:core] dump config after ready, 53ms
+2020-08-06 11:16:17,061 INFO 15212 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:16:17,182 INFO 15212 [egg-multipart] file mode enable
+2020-08-06 11:16:17,182 INFO 15212 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:16:19,016 INFO 15212 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:16:19,025 INFO 15212 [egg-security] use methodnoallow middleware
+2020-08-06 11:16:19,029 INFO 15212 [egg-security] use noopen middleware
+2020-08-06 11:16:19,032 INFO 15212 [egg-security] use nosniff middleware
+2020-08-06 11:16:19,033 INFO 15212 [egg-security] use xssProtection middleware
+2020-08-06 11:16:19,035 INFO 15212 [egg-security] use xframe middleware
+2020-08-06 11:16:19,037 INFO 15212 [egg-security] use dta middleware
+2020-08-06 11:16:19,037 INFO 15212 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:16:19,073 INFO 15212 [egg:core] dump config after load, 18ms
+2020-08-06 11:16:19,205 INFO 15212 [egg-watcher:application] watcher start success
+2020-08-06 11:16:19,259 INFO 15212 [egg:core] dump config after ready, 20ms
+2020-08-06 11:16:30,358 INFO 23064 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:16:30,466 INFO 23064 [egg-multipart] file mode enable
+2020-08-06 11:16:30,466 INFO 23064 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:16:32,181 INFO 23064 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:16:32,207 INFO 23064 [egg-security] use methodnoallow middleware
+2020-08-06 11:16:32,214 INFO 23064 [egg-security] use noopen middleware
+2020-08-06 11:16:32,217 INFO 23064 [egg-security] use nosniff middleware
+2020-08-06 11:16:32,219 INFO 23064 [egg-security] use xssProtection middleware
+2020-08-06 11:16:32,221 INFO 23064 [egg-security] use xframe middleware
+2020-08-06 11:16:32,224 INFO 23064 [egg-security] use dta middleware
+2020-08-06 11:16:32,224 INFO 23064 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:16:32,270 INFO 23064 [egg:core] dump config after load, 29ms
+2020-08-06 11:16:54,504 INFO 23064 [egg-watcher:application] watcher start success
+2020-08-06 11:16:55,911 INFO 23064 [egg:core] dump config after ready, 20ms
+2020-08-06 11:20:13,368 INFO 24700 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:20:13,495 INFO 24700 [egg-multipart] file mode enable
+2020-08-06 11:20:13,495 INFO 24700 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:20:15,779 INFO 24700 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:20:15,788 INFO 24700 [egg-security] use methodnoallow middleware
+2020-08-06 11:20:15,791 INFO 24700 [egg-security] use noopen middleware
+2020-08-06 11:20:15,794 INFO 24700 [egg-security] use nosniff middleware
+2020-08-06 11:20:15,796 INFO 24700 [egg-security] use xssProtection middleware
+2020-08-06 11:20:15,798 INFO 24700 [egg-security] use xframe middleware
+2020-08-06 11:20:15,801 INFO 24700 [egg-security] use dta middleware
+2020-08-06 11:20:15,801 INFO 24700 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:20:15,886 INFO 24700 [egg:core] dump config after load, 57ms
+2020-08-06 11:20:16,078 INFO 24700 [egg-watcher:application] watcher start success
+2020-08-06 11:20:16,135 INFO 24700 [egg:core] dump config after ready, 15ms
+2020-08-06 11:21:46,800 INFO 11140 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:21:46,935 INFO 11140 [egg-multipart] file mode enable
+2020-08-06 11:21:46,935 INFO 11140 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:21:49,518 INFO 11140 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:21:49,536 INFO 11140 [egg-security] use methodnoallow middleware
+2020-08-06 11:21:49,540 INFO 11140 [egg-security] use noopen middleware
+2020-08-06 11:21:49,547 INFO 11140 [egg-security] use nosniff middleware
+2020-08-06 11:21:49,550 INFO 11140 [egg-security] use xssProtection middleware
+2020-08-06 11:21:49,551 INFO 11140 [egg-security] use xframe middleware
+2020-08-06 11:21:49,554 INFO 11140 [egg-security] use dta middleware
+2020-08-06 11:21:49,554 INFO 11140 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:21:49,692 INFO 11140 [egg:core] dump config after load, 73ms
+2020-08-06 11:21:49,876 INFO 11140 [egg-watcher:application] watcher start success
+2020-08-06 11:21:50,012 INFO 11140 [egg:core] dump config after ready, 43ms
+2020-08-06 11:24:03,985 INFO 22268 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:24:04,117 INFO 22268 [egg-multipart] file mode enable
+2020-08-06 11:24:04,117 INFO 22268 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:24:06,245 INFO 22268 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:24:06,287 INFO 22268 [egg-security] use methodnoallow middleware
+2020-08-06 11:24:06,290 INFO 22268 [egg-security] use noopen middleware
+2020-08-06 11:24:06,296 INFO 22268 [egg-security] use nosniff middleware
+2020-08-06 11:24:06,298 INFO 22268 [egg-security] use xssProtection middleware
+2020-08-06 11:24:06,299 INFO 22268 [egg-security] use xframe middleware
+2020-08-06 11:24:06,304 INFO 22268 [egg-security] use dta middleware
+2020-08-06 11:24:06,304 INFO 22268 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:24:06,384 INFO 22268 [egg:core] dump config after load, 50ms
+2020-08-06 11:24:06,528 INFO 22268 [egg-watcher:application] watcher start success
+2020-08-06 11:24:06,608 INFO 22268 [egg:core] dump config after ready, 14ms
+2020-08-06 11:24:41,070 INFO 27792 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 11:24:41,261 INFO 27792 [egg-multipart] file mode enable
+2020-08-06 11:24:41,262 INFO 27792 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 11:24:43,896 INFO 27792 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 11:24:43,902 INFO 27792 [egg-security] use methodnoallow middleware
+2020-08-06 11:24:43,904 INFO 27792 [egg-security] use noopen middleware
+2020-08-06 11:24:43,908 INFO 27792 [egg-security] use nosniff middleware
+2020-08-06 11:24:43,910 INFO 27792 [egg-security] use xssProtection middleware
+2020-08-06 11:24:43,912 INFO 27792 [egg-security] use xframe middleware
+2020-08-06 11:24:43,913 INFO 27792 [egg-security] use dta middleware
+2020-08-06 11:24:43,914 INFO 27792 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 11:24:44,019 INFO 27792 [egg:core] dump config after load, 57ms
+2020-08-06 11:24:44,200 INFO 27792 [egg-watcher:application] watcher start success
+2020-08-06 11:24:44,386 INFO 27792 [egg:core] dump config after ready, 19ms
+2020-08-06 12:00:32,227 INFO 17132 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 12:00:32,361 INFO 17132 [egg-multipart] file mode enable
+2020-08-06 12:00:32,361 INFO 17132 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 12:00:34,749 INFO 17132 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 12:00:34,755 INFO 17132 [egg-security] use methodnoallow middleware
+2020-08-06 12:00:34,757 INFO 17132 [egg-security] use noopen middleware
+2020-08-06 12:00:34,760 INFO 17132 [egg-security] use nosniff middleware
+2020-08-06 12:00:34,837 INFO 17132 [egg-security] use xssProtection middleware
+2020-08-06 12:00:34,840 INFO 17132 [egg-security] use xframe middleware
+2020-08-06 12:00:34,842 INFO 17132 [egg-security] use dta middleware
+2020-08-06 12:00:34,842 INFO 17132 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 12:00:34,931 INFO 17132 [egg:core] dump config after load, 66ms
+2020-08-06 12:00:48,856 INFO 15920 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 12:00:48,954 INFO 15920 [egg-multipart] file mode enable
+2020-08-06 12:00:48,954 INFO 15920 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 12:00:50,982 INFO 15920 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 12:00:50,991 INFO 15920 [egg-security] use methodnoallow middleware
+2020-08-06 12:00:50,993 INFO 15920 [egg-security] use noopen middleware
+2020-08-06 12:00:50,996 INFO 15920 [egg-security] use nosniff middleware
+2020-08-06 12:00:51,008 INFO 15920 [egg-security] use xssProtection middleware
+2020-08-06 12:00:51,011 INFO 15920 [egg-security] use xframe middleware
+2020-08-06 12:00:51,013 INFO 15920 [egg-security] use dta middleware
+2020-08-06 12:00:51,013 INFO 15920 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 12:00:51,082 INFO 15920 [egg:core] dump config after load, 42ms
+2020-08-06 12:00:51,257 INFO 15920 [egg-watcher:application] watcher start success
+2020-08-06 12:00:51,316 INFO 15920 [egg:core] dump config after ready, 17ms
+2020-08-06 13:45:06,229 INFO 20160 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 13:45:06,440 INFO 20160 [egg-multipart] file mode enable
+2020-08-06 13:45:06,440 INFO 20160 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 13:45:10,357 INFO 20160 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 13:45:10,364 INFO 20160 [egg-security] use methodnoallow middleware
+2020-08-06 13:45:10,367 INFO 20160 [egg-security] use noopen middleware
+2020-08-06 13:45:10,369 INFO 20160 [egg-security] use nosniff middleware
+2020-08-06 13:45:10,371 INFO 20160 [egg-security] use xssProtection middleware
+2020-08-06 13:45:10,373 INFO 20160 [egg-security] use xframe middleware
+2020-08-06 13:45:10,374 INFO 20160 [egg-security] use dta middleware
+2020-08-06 13:45:10,374 INFO 20160 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 13:45:10,526 INFO 20160 [egg:core] dump config after load, 66ms
+2020-08-06 13:45:10,681 INFO 20160 [egg-watcher:application] watcher start success
+2020-08-06 13:45:10,839 INFO 20160 [egg:core] dump config after ready, 14ms
+2020-08-06 14:32:44,833 INFO 18916 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 14:32:44,888 INFO 18916 [egg-multipart] file mode enable
+2020-08-06 14:32:44,888 INFO 18916 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 14:32:46,015 INFO 18916 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 14:32:46,024 INFO 18916 [egg-security] use methodnoallow middleware
+2020-08-06 14:32:46,025 INFO 18916 [egg-security] use noopen middleware
+2020-08-06 14:32:46,028 INFO 18916 [egg-security] use nosniff middleware
+2020-08-06 14:32:46,029 INFO 18916 [egg-security] use xssProtection middleware
+2020-08-06 14:32:46,031 INFO 18916 [egg-security] use xframe middleware
+2020-08-06 14:32:46,032 INFO 18916 [egg-security] use dta middleware
+2020-08-06 14:32:46,032 INFO 18916 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 14:32:46,057 INFO 18916 [egg:core] dump config after load, 16ms
+2020-08-06 14:32:46,149 INFO 18916 [egg-watcher:application] watcher start success
+2020-08-06 14:32:46,186 INFO 18916 [egg:core] dump config after ready, 13ms
+2020-08-06 14:33:15,662 INFO 11788 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 14:33:15,842 INFO 11788 [egg-multipart] file mode enable
+2020-08-06 14:33:15,842 INFO 11788 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 14:33:18,588 INFO 11788 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 14:33:18,596 INFO 11788 [egg-security] use methodnoallow middleware
+2020-08-06 14:33:18,598 INFO 11788 [egg-security] use noopen middleware
+2020-08-06 14:33:18,650 INFO 11788 [egg-security] use nosniff middleware
+2020-08-06 14:33:18,651 INFO 11788 [egg-security] use xssProtection middleware
+2020-08-06 14:33:18,660 INFO 11788 [egg-security] use xframe middleware
+2020-08-06 14:33:18,661 INFO 11788 [egg-security] use dta middleware
+2020-08-06 14:33:18,661 INFO 11788 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 14:33:18,746 INFO 11788 [egg:core] dump config after load, 72ms
+2020-08-06 14:33:18,844 INFO 11788 [egg-watcher:application] watcher start success
+2020-08-06 17:03:10,652 INFO 192 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 17:03:10,773 INFO 192 [egg-multipart] file mode enable
+2020-08-06 17:03:10,773 INFO 192 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 17:03:12,967 INFO 192 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 17:03:12,999 INFO 192 [egg-security] use methodnoallow middleware
+2020-08-06 17:03:13,002 INFO 192 [egg-security] use noopen middleware
+2020-08-06 17:03:13,005 INFO 192 [egg-security] use nosniff middleware
+2020-08-06 17:03:13,007 INFO 192 [egg-security] use xssProtection middleware
+2020-08-06 17:03:13,009 INFO 192 [egg-security] use xframe middleware
+2020-08-06 17:03:13,012 INFO 192 [egg-security] use dta middleware
+2020-08-06 17:03:13,012 INFO 192 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 17:03:13,085 INFO 192 [egg:core] dump config after load, 63ms
+2020-08-06 17:03:13,226 INFO 192 [egg-watcher:application] watcher start success
+2020-08-06 17:03:13,298 INFO 192 [egg:core] dump config after ready, 14ms
+2020-08-06 17:15:08,043 INFO 14004 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 17:15:08,198 INFO 14004 [egg-multipart] file mode enable
+2020-08-06 17:15:08,198 INFO 14004 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 17:15:11,170 INFO 14004 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 17:15:11,181 INFO 14004 [egg-security] use methodnoallow middleware
+2020-08-06 17:15:11,185 INFO 14004 [egg-security] use noopen middleware
+2020-08-06 17:15:11,188 INFO 14004 [egg-security] use nosniff middleware
+2020-08-06 17:15:11,190 INFO 14004 [egg-security] use xssProtection middleware
+2020-08-06 17:15:11,191 INFO 14004 [egg-security] use xframe middleware
+2020-08-06 17:15:11,209 INFO 14004 [egg-security] use dta middleware
+2020-08-06 17:15:11,209 INFO 14004 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 17:15:11,402 INFO 14004 [egg:core] dump config after load, 176ms
+2020-08-06 17:15:11,626 INFO 14004 [egg-watcher:application] watcher start success
+2020-08-06 17:15:11,689 INFO 14004 [egg:core] dump config after ready, 16ms
+2020-08-06 17:15:34,328 INFO 28500 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 17:15:34,592 INFO 28500 [egg-multipart] file mode enable
+2020-08-06 17:15:34,592 INFO 28500 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 17:15:37,347 INFO 28500 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 17:15:37,379 INFO 28500 [egg-security] use methodnoallow middleware
+2020-08-06 17:15:37,383 INFO 28500 [egg-security] use noopen middleware
+2020-08-06 17:15:37,385 INFO 28500 [egg-security] use nosniff middleware
+2020-08-06 17:15:37,387 INFO 28500 [egg-security] use xssProtection middleware
+2020-08-06 17:15:37,389 INFO 28500 [egg-security] use xframe middleware
+2020-08-06 17:15:37,391 INFO 28500 [egg-security] use dta middleware
+2020-08-06 17:15:37,391 INFO 28500 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 17:15:37,522 INFO 28500 [egg:core] dump config after load, 116ms
+2020-08-06 17:15:37,722 INFO 28500 [egg-watcher:application] watcher start success
+2020-08-06 17:15:37,950 INFO 28500 [egg:core] dump config after ready, 15ms
+2020-08-06 17:16:41,852 INFO 7664 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 17:16:41,992 INFO 7664 [egg-multipart] file mode enable
+2020-08-06 17:16:41,992 INFO 7664 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 17:16:44,379 INFO 7664 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 17:16:44,390 INFO 7664 [egg-security] use methodnoallow middleware
+2020-08-06 17:16:44,392 INFO 7664 [egg-security] use noopen middleware
+2020-08-06 17:16:44,432 INFO 7664 [egg-security] use nosniff middleware
+2020-08-06 17:16:44,435 INFO 7664 [egg-security] use xssProtection middleware
+2020-08-06 17:16:44,437 INFO 7664 [egg-security] use xframe middleware
+2020-08-06 17:16:44,440 INFO 7664 [egg-security] use dta middleware
+2020-08-06 17:16:44,440 INFO 7664 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 17:16:44,470 INFO 7664 [egg:core] dump config after load, 17ms
+2020-08-06 17:16:44,859 INFO 7664 [egg-watcher:application] watcher start success
+2020-08-06 17:16:44,989 INFO 7664 [egg:core] dump config after ready, 18ms
+2020-08-06 17:27:10,503 INFO 26168 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 17:27:10,613 INFO 26168 [egg-multipart] file mode enable
+2020-08-06 17:27:10,613 INFO 26168 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 17:27:12,669 INFO 26168 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 17:27:12,677 INFO 26168 [egg-security] use methodnoallow middleware
+2020-08-06 17:27:12,680 INFO 26168 [egg-security] use noopen middleware
+2020-08-06 17:27:12,683 INFO 26168 [egg-security] use nosniff middleware
+2020-08-06 17:27:12,689 INFO 26168 [egg-security] use xssProtection middleware
+2020-08-06 17:27:12,691 INFO 26168 [egg-security] use xframe middleware
+2020-08-06 17:27:12,692 INFO 26168 [egg-security] use dta middleware
+2020-08-06 17:27:12,692 INFO 26168 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 17:27:12,787 INFO 26168 [egg:core] dump config after load, 55ms
+2020-08-06 17:27:25,283 INFO 17352 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 17:27:25,448 INFO 17352 [egg-multipart] file mode enable
+2020-08-06 17:27:25,448 INFO 17352 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 17:27:27,730 INFO 17352 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 17:27:27,740 INFO 17352 [egg-security] use methodnoallow middleware
+2020-08-06 17:27:27,744 INFO 17352 [egg-security] use noopen middleware
+2020-08-06 17:27:27,747 INFO 17352 [egg-security] use nosniff middleware
+2020-08-06 17:27:27,749 INFO 17352 [egg-security] use xssProtection middleware
+2020-08-06 17:27:27,750 INFO 17352 [egg-security] use xframe middleware
+2020-08-06 17:27:27,798 INFO 17352 [egg-security] use dta middleware
+2020-08-06 17:27:27,798 INFO 17352 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 17:27:27,927 INFO 17352 [egg:core] dump config after load, 113ms
+2020-08-06 17:27:28,059 INFO 17352 [egg-watcher:application] watcher start success
+2020-08-06 17:27:28,279 INFO 17352 [egg:core] dump config after ready, 161ms
+2020-08-06 17:50:23,466 INFO 20864 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 17:50:23,573 INFO 20864 [egg-multipart] file mode enable
+2020-08-06 17:50:23,573 INFO 20864 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 17:50:24,934 INFO 20864 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 17:50:24,939 INFO 20864 [egg-security] use methodnoallow middleware
+2020-08-06 17:50:24,942 INFO 20864 [egg-security] use noopen middleware
+2020-08-06 17:50:24,945 INFO 20864 [egg-security] use nosniff middleware
+2020-08-06 17:50:24,947 INFO 20864 [egg-security] use xssProtection middleware
+2020-08-06 17:50:24,951 INFO 20864 [egg-security] use xframe middleware
+2020-08-06 17:50:24,953 INFO 20864 [egg-security] use dta middleware
+2020-08-06 17:50:24,953 INFO 20864 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 17:50:25,074 INFO 20864 [egg:core] dump config after load, 71ms
+2020-08-06 17:50:25,186 INFO 20864 [egg-watcher:application] watcher start success
+2020-08-06 17:50:25,291 INFO 20864 [egg:core] dump config after ready, 19ms
+2020-08-06 17:59:33,472 INFO 27764 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 17:59:33,607 INFO 27764 [egg-multipart] file mode enable
+2020-08-06 17:59:33,607 INFO 27764 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 17:59:35,362 INFO 27764 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 17:59:35,368 INFO 27764 [egg-security] use methodnoallow middleware
+2020-08-06 17:59:35,371 INFO 27764 [egg-security] use noopen middleware
+2020-08-06 17:59:35,373 INFO 27764 [egg-security] use nosniff middleware
+2020-08-06 17:59:35,376 INFO 27764 [egg-security] use xssProtection middleware
+2020-08-06 17:59:35,378 INFO 27764 [egg-security] use xframe middleware
+2020-08-06 17:59:35,388 INFO 27764 [egg-security] use dta middleware
+2020-08-06 17:59:35,388 INFO 27764 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 17:59:35,448 INFO 27764 [egg:core] dump config after load, 32ms
+2020-08-06 17:59:35,602 INFO 27764 [egg-watcher:application] watcher start success
+2020-08-06 17:59:35,674 INFO 27764 [egg:core] dump config after ready, 20ms
+2020-08-06 18:00:03,403 INFO 18444 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 18:00:03,554 INFO 18444 [egg-multipart] file mode enable
+2020-08-06 18:00:03,554 INFO 18444 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 18:00:05,379 INFO 18444 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 18:00:05,392 INFO 18444 [egg-security] use methodnoallow middleware
+2020-08-06 18:00:05,394 INFO 18444 [egg-security] use noopen middleware
+2020-08-06 18:00:05,397 INFO 18444 [egg-security] use nosniff middleware
+2020-08-06 18:00:05,399 INFO 18444 [egg-security] use xssProtection middleware
+2020-08-06 18:00:05,401 INFO 18444 [egg-security] use xframe middleware
+2020-08-06 18:00:05,404 INFO 18444 [egg-security] use dta middleware
+2020-08-06 18:00:05,404 INFO 18444 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 18:00:05,451 INFO 18444 [egg:core] dump config after load, 36ms
+2020-08-06 18:00:05,619 INFO 18444 [egg-watcher:application] watcher start success
+2020-08-06 18:00:05,750 INFO 18444 [egg:core] dump config after ready, 63ms
+2020-08-06 18:03:14,342 INFO 9528 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 18:03:14,501 INFO 9528 [egg-multipart] file mode enable
+2020-08-06 18:03:14,501 INFO 9528 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 18:03:17,489 INFO 9528 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 18:03:17,522 INFO 9528 [egg-security] use methodnoallow middleware
+2020-08-06 18:03:17,524 INFO 9528 [egg-security] use noopen middleware
+2020-08-06 18:03:17,529 INFO 9528 [egg-security] use nosniff middleware
+2020-08-06 18:03:17,531 INFO 9528 [egg-security] use xssProtection middleware
+2020-08-06 18:03:17,533 INFO 9528 [egg-security] use xframe middleware
+2020-08-06 18:03:17,534 INFO 9528 [egg-security] use dta middleware
+2020-08-06 18:03:17,534 INFO 9528 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 18:03:17,644 INFO 9528 [egg:core] dump config after load, 100ms
+2020-08-06 18:03:17,822 INFO 9528 [egg-watcher:application] watcher start success
+2020-08-06 18:03:17,928 INFO 9528 [egg:core] dump config after ready, 13ms
+2020-08-06 18:04:10,645 INFO 12528 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 18:04:10,795 INFO 12528 [egg-multipart] file mode enable
+2020-08-06 18:04:10,795 INFO 12528 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 18:04:12,985 INFO 12528 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 18:04:12,995 INFO 12528 [egg-security] use methodnoallow middleware
+2020-08-06 18:04:12,997 INFO 12528 [egg-security] use noopen middleware
+2020-08-06 18:04:13,015 INFO 12528 [egg-security] use nosniff middleware
+2020-08-06 18:04:13,017 INFO 12528 [egg-security] use xssProtection middleware
+2020-08-06 18:04:13,019 INFO 12528 [egg-security] use xframe middleware
+2020-08-06 18:04:13,037 INFO 12528 [egg-security] use dta middleware
+2020-08-06 18:04:13,037 INFO 12528 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 18:04:13,124 INFO 12528 [egg:core] dump config after load, 70ms
+2020-08-06 18:04:13,279 INFO 12528 [egg-watcher:application] watcher start success
+2020-08-06 18:04:13,399 INFO 12528 [egg:core] dump config after ready, 16ms
+2020-08-06 18:15:31,816 INFO 20056 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 18:15:31,947 INFO 20056 [egg-multipart] file mode enable
+2020-08-06 18:15:31,947 INFO 20056 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 18:15:35,255 INFO 20056 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 18:15:35,274 INFO 20056 [egg-security] use methodnoallow middleware
+2020-08-06 18:15:35,277 INFO 20056 [egg-security] use noopen middleware
+2020-08-06 18:15:35,279 INFO 20056 [egg-security] use nosniff middleware
+2020-08-06 18:15:35,281 INFO 20056 [egg-security] use xssProtection middleware
+2020-08-06 18:15:35,283 INFO 20056 [egg-security] use xframe middleware
+2020-08-06 18:15:35,347 INFO 20056 [egg-security] use dta middleware
+2020-08-06 18:15:35,347 INFO 20056 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 18:15:35,475 INFO 20056 [egg:core] dump config after load, 115ms
+2020-08-06 18:15:35,750 INFO 20056 [egg-watcher:application] watcher start success
+2020-08-06 18:15:35,934 INFO 20056 [egg:core] dump config after ready, 105ms
+2020-08-06 18:16:53,706 INFO 18516 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 18:16:53,877 INFO 18516 [egg-multipart] file mode enable
+2020-08-06 18:16:53,877 INFO 18516 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 18:16:57,033 INFO 18516 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 18:16:57,042 INFO 18516 [egg-security] use methodnoallow middleware
+2020-08-06 18:16:57,044 INFO 18516 [egg-security] use noopen middleware
+2020-08-06 18:16:57,091 INFO 18516 [egg-security] use nosniff middleware
+2020-08-06 18:16:57,094 INFO 18516 [egg-security] use xssProtection middleware
+2020-08-06 18:16:57,097 INFO 18516 [egg-security] use xframe middleware
+2020-08-06 18:16:57,099 INFO 18516 [egg-security] use dta middleware
+2020-08-06 18:16:57,099 INFO 18516 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 18:16:57,243 INFO 18516 [egg:core] dump config after load, 132ms
+2020-08-06 18:16:57,427 INFO 18516 [egg-watcher:application] watcher start success
+2020-08-06 18:16:57,484 INFO 18516 [egg:core] dump config after ready, 16ms
+2020-08-06 18:50:28,551 INFO 22224 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-06 18:50:28,721 INFO 22224 [egg-multipart] file mode enable
+2020-08-06 18:50:28,722 INFO 22224 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-06 18:50:31,675 INFO 22224 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-06 18:50:31,682 INFO 22224 [egg-security] use methodnoallow middleware
+2020-08-06 18:50:31,684 INFO 22224 [egg-security] use noopen middleware
+2020-08-06 18:50:31,731 INFO 22224 [egg-security] use nosniff middleware
+2020-08-06 18:50:31,733 INFO 22224 [egg-security] use xssProtection middleware
+2020-08-06 18:50:31,735 INFO 22224 [egg-security] use xframe middleware
+2020-08-06 18:50:31,739 INFO 22224 [egg-security] use dta middleware
+2020-08-06 18:50:31,739 INFO 22224 [egg-security] compose 6 middlewares into one security middleware
+2020-08-06 18:50:31,842 INFO 22224 [egg:core] dump config after load, 87ms
+2020-08-06 18:50:32,038 INFO 22224 [egg-watcher:application] watcher start success
+2020-08-06 18:50:32,291 INFO 22224 [egg:core] dump config after ready, 173ms
+2020-08-07 10:30:57,409 INFO 14044 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-07 10:30:57,463 INFO 14044 [egg-multipart] file mode enable
+2020-08-07 10:30:57,464 INFO 14044 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-07 10:30:58,426 INFO 14044 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-07 10:30:58,433 INFO 14044 [egg-security] use methodnoallow middleware
+2020-08-07 10:30:58,436 INFO 14044 [egg-security] use noopen middleware
+2020-08-07 10:30:58,439 INFO 14044 [egg-security] use nosniff middleware
+2020-08-07 10:30:58,441 INFO 14044 [egg-security] use xssProtection middleware
+2020-08-07 10:30:58,443 INFO 14044 [egg-security] use xframe middleware
+2020-08-07 10:30:58,444 INFO 14044 [egg-security] use dta middleware
+2020-08-07 10:30:58,444 INFO 14044 [egg-security] compose 6 middlewares into one security middleware
+2020-08-07 10:30:58,476 INFO 14044 [egg:core] dump config after load, 16ms
+2020-08-07 10:30:58,552 INFO 14044 [egg-watcher:application] watcher start success
+2020-08-07 10:30:58,628 INFO 14044 [egg:core] dump config after ready, 19ms
+2020-08-07 10:31:01,364 INFO 17484 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-07 10:31:01,440 INFO 17484 [egg-multipart] file mode enable
+2020-08-07 10:31:01,440 INFO 17484 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-07 10:31:02,615 INFO 17484 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-07 10:31:02,622 INFO 17484 [egg-security] use methodnoallow middleware
+2020-08-07 10:31:02,623 INFO 17484 [egg-security] use noopen middleware
+2020-08-07 10:31:02,625 INFO 17484 [egg-security] use nosniff middleware
+2020-08-07 10:31:02,626 INFO 17484 [egg-security] use xssProtection middleware
+2020-08-07 10:31:02,628 INFO 17484 [egg-security] use xframe middleware
+2020-08-07 10:31:02,629 INFO 17484 [egg-security] use dta middleware
+2020-08-07 10:31:02,629 INFO 17484 [egg-security] compose 6 middlewares into one security middleware
+2020-08-07 10:31:02,650 INFO 17484 [egg:core] dump config after load, 10ms
+2020-08-07 10:31:11,056 INFO 17484 [egg-watcher:application] watcher start success
+2020-08-07 10:31:11,171 INFO 17484 [egg:core] dump config after ready, 28ms
+2020-08-07 10:31:16,214 INFO 19460 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-07 10:31:16,297 INFO 19460 [egg-multipart] file mode enable
+2020-08-07 10:31:16,297 INFO 19460 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-07 10:31:17,586 INFO 19460 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-07 10:31:17,592 INFO 19460 [egg-security] use methodnoallow middleware
+2020-08-07 10:31:17,596 INFO 19460 [egg-security] use noopen middleware
+2020-08-07 10:31:17,599 INFO 19460 [egg-security] use nosniff middleware
+2020-08-07 10:31:17,601 INFO 19460 [egg-security] use xssProtection middleware
+2020-08-07 10:31:17,604 INFO 19460 [egg-security] use xframe middleware
+2020-08-07 10:31:17,606 INFO 19460 [egg-security] use dta middleware
+2020-08-07 10:31:17,606 INFO 19460 [egg-security] compose 6 middlewares into one security middleware
+2020-08-07 10:31:17,633 INFO 19460 [egg:core] dump config after load, 15ms
+2020-08-07 10:31:30,954 INFO 19460 [egg-watcher:application] watcher start success
+2020-08-07 10:31:32,026 INFO 19460 [egg:core] dump config after ready, 12ms
+2020-08-07 10:31:35,857 INFO 16000 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-08-07 10:31:35,899 INFO 16000 [egg-multipart] file mode enable
+2020-08-07 10:31:35,899 INFO 16000 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-07 10:31:36,551 INFO 16000 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-07 10:31:36,556 INFO 16000 [egg-security] use methodnoallow middleware
+2020-08-07 10:31:36,558 INFO 16000 [egg-security] use noopen middleware
+2020-08-07 10:31:36,560 INFO 16000 [egg-security] use nosniff middleware
+2020-08-07 10:31:36,561 INFO 16000 [egg-security] use xssProtection middleware
+2020-08-07 10:31:36,563 INFO 16000 [egg-security] use xframe middleware
+2020-08-07 10:31:36,564 INFO 16000 [egg-security] use dta middleware
+2020-08-07 10:31:36,564 INFO 16000 [egg-security] compose 6 middlewares into one security middleware
+2020-08-07 10:31:36,581 INFO 16000 [egg:core] dump config after load, 10ms
+2020-08-07 10:31:42,891 INFO 16000 [egg-watcher:application] watcher start success
+2020-08-07 10:31:45,705 INFO 16000 [egg:core] dump config after ready, 15ms
+2020-08-07 10:54:32,022 INFO 18412 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2020-08-07 10:54:32,134 INFO 18412 [egg-multipart] file mode enable
+2020-08-07 10:54:32,134 INFO 18412 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-07 10:54:34,044 INFO 18412 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-07 10:54:34,067 INFO 18412 [egg-security] use csrf middleware
+2020-08-07 10:54:34,070 INFO 18412 [egg-security] use methodnoallow middleware
+2020-08-07 10:54:34,072 INFO 18412 [egg-security] use noopen middleware
+2020-08-07 10:54:34,075 INFO 18412 [egg-security] use nosniff middleware
+2020-08-07 10:54:34,077 INFO 18412 [egg-security] use xssProtection middleware
+2020-08-07 10:54:34,079 INFO 18412 [egg-security] use xframe middleware
+2020-08-07 10:54:34,082 INFO 18412 [egg-security] use dta middleware
+2020-08-07 10:54:34,082 INFO 18412 [egg-security] compose 7 middlewares into one security middleware
+2020-08-07 10:54:34,175 INFO 18412 [egg:core] dump config after load, 82ms
+2020-08-07 10:54:32,179 INFO 1468 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2020-08-07 10:54:32,283 INFO 1468 [egg-multipart] file mode enable
+2020-08-07 10:54:32,284 INFO 1468 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-07 10:54:34,298 INFO 1468 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-07 10:54:34,305 INFO 1468 [egg-security] use csrf middleware
+2020-08-07 10:54:34,309 INFO 1468 [egg-security] use methodnoallow middleware
+2020-08-07 10:54:34,311 INFO 1468 [egg-security] use noopen middleware
+2020-08-07 10:54:34,313 INFO 1468 [egg-security] use nosniff middleware
+2020-08-07 10:54:34,336 INFO 1468 [egg-security] use xssProtection middleware
+2020-08-07 10:54:34,338 INFO 1468 [egg-security] use xframe middleware
+2020-08-07 10:54:34,340 INFO 1468 [egg-security] use dta middleware
+2020-08-07 10:54:34,340 INFO 1468 [egg-security] compose 7 middlewares into one security middleware
+2020-08-07 10:54:34,368 INFO 1468 [egg:core] dump config after load, 15ms
+2020-08-07 10:54:32,232 INFO 19424 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2020-08-07 10:54:32,348 INFO 19424 [egg-multipart] file mode enable
+2020-08-07 10:54:32,349 INFO 19424 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-07 10:54:34,411 INFO 19424 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-07 10:54:34,420 INFO 19424 [egg-security] use csrf middleware
+2020-08-07 10:54:34,423 INFO 19424 [egg-security] use methodnoallow middleware
+2020-08-07 10:54:34,425 INFO 19424 [egg-security] use noopen middleware
+2020-08-07 10:54:34,428 INFO 19424 [egg-security] use nosniff middleware
+2020-08-07 10:54:34,430 INFO 19424 [egg-security] use xssProtection middleware
+2020-08-07 10:54:34,431 INFO 19424 [egg-security] use xframe middleware
+2020-08-07 10:54:34,433 INFO 19424 [egg-security] use dta middleware
+2020-08-07 10:54:34,433 INFO 19424 [egg-security] compose 7 middlewares into one security middleware
+2020-08-07 10:54:34,487 INFO 19424 [egg:core] dump config after load, 44ms
+2020-08-07 10:54:32,341 INFO 19756 [egg:logger] init all loggers with options: {"dir":"E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\logs\\server","encoding":"utf8","env":"prod","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":true,"outputJSON":false,"buffer":true,"appLogName":"app.log","coreLogName":"core.log","agentLogName":"agent.log","errorLogName":"error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2020-08-07 10:54:32,476 INFO 19756 [egg-multipart] file mode enable
+2020-08-07 10:54:32,477 INFO 19756 [egg-multipart] will save temporary files to "C:\\Users\\TB\\AppData\\Local\\Temp\\egg-multipart-tmp\\maikepc", cleanup job cron: "0 30 4 * * *"
+2020-08-07 10:54:34,534 INFO 19756 [egg-static] starting static serve /public/ -> E:\liuyu\egg\egg-nuxt-ssr\test\app\public
+2020-08-07 10:54:34,557 INFO 19756 [egg-security] use csrf middleware
+2020-08-07 10:54:34,561 INFO 19756 [egg-security] use methodnoallow middleware
+2020-08-07 10:54:34,562 INFO 19756 [egg-security] use noopen middleware
+2020-08-07 10:54:34,565 INFO 19756 [egg-security] use nosniff middleware
+2020-08-07 10:54:34,567 INFO 19756 [egg-security] use xssProtection middleware
+2020-08-07 10:54:34,569 INFO 19756 [egg-security] use xframe middleware
+2020-08-07 10:54:34,571 INFO 19756 [egg-security] use dta middleware
+2020-08-07 10:54:34,571 INFO 19756 [egg-security] compose 7 middlewares into one security middleware
+2020-08-07 10:54:34,604 INFO 19756 [egg:core] dump config after load, 17ms
+2020-08-07 10:54:34,753 INFO 19756 [egg-watcher:application] watcher start success
+2020-08-07 10:54:34,812 INFO 19756 [egg:core] dump config after ready, 10ms
+2020-08-07 10:54:34,321 INFO 18412 [egg-watcher:application] watcher start success
+2020-08-07 10:54:34,410 INFO 18412 [egg:core] dump config after ready, 16ms
+2020-08-07 10:54:34,507 INFO 1468 [egg-watcher:application] watcher start success
+2020-08-07 10:54:34,593 INFO 1468 [egg:core] dump config after ready, 19ms
+2020-08-07 10:54:34,629 INFO 19424 [egg-watcher:application] watcher start success
+2020-08-07 10:54:34,689 INFO 19424 [egg:core] dump config after ready, 14ms

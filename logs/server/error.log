@@ -1,0 +1,1209 @@
+2020-07-30 18:43:45,711 ERROR 23384 [-/127.0.0.1/-/0ms GET /] nodejs.EPERMError: EPERM: operation not permitted, lstat 'E:\liuyu\egg\egg-nuxt-ssr\test\.nuxt\mixins\fetch.server.js'
+EPERMError: EPERM: operation not permitted, lstat 'E:\liuyu\egg\egg-nuxt-ssr\test\.nuxt\mixins\fetch.server.js'
+errno: -4048
+code: "EPERM"
+syscall: "lstat"
+path: "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\.nuxt\\mixins\\fetch.server.js"
+name: "EPERMError"
+pid: 23384
+hostname: TB
+
+2020-07-30 18:44:10,503 ERROR 26372 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 26372
+hostname: TB
+
+2020-07-30 18:44:12,402 ERROR 18008 [-/127.0.0.1/-/1ms GET /] nodejs.EPERMError: EPERM: operation not permitted, open 'E:\liuyu\egg\egg-nuxt-ssr\test\.nuxt\App.js'
+EPERMError: EPERM: operation not permitted, open 'E:\liuyu\egg\egg-nuxt-ssr\test\.nuxt\App.js'
+errno: -4048
+code: "EPERM"
+syscall: "open"
+path: "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\.nuxt\\App.js"
+name: "EPERMError"
+pid: 18008
+hostname: TB
+
+2020-07-31 16:15:23,914 ERROR 23356 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:201:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 23356
+hostname: TB
+
+2020-07-31 18:05:28,197 ERROR 24384 [-/127.0.0.1/-/3ms GET /test] nodejs.TypeError: Cannot read property 'select' of undefined
+    at TestService.test (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\test.js:7:42)
+    at TestController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\test.js:10:41)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 24384
+hostname: TB
+
+2020-07-31 18:08:26,332 ERROR 23756 [-/127.0.0.1/-/3ms GET /test] nodejs.TypeError: Cannot read property 'select' of undefined
+    at TestService.test (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\test.js:7:42)
+    at TestController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\test.js:10:41)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 23756
+hostname: TB
+
+2020-07-31 18:09:36,863 ERROR 7776 [-/127.0.0.1/-/6ms GET /test] nodejs.TypeError: Cannot read property 'select' of undefined
+    at TestService.test (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\test.js:7:42)
+    at TestController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\test.js:10:41)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 7776
+hostname: TB
+
+2020-07-31 18:09:44,150 ERROR 7776 [-/127.0.0.1/-/1ms GET /test] nodejs.TypeError: Cannot read property 'select' of undefined
+    at TestService.test (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\test.js:7:42)
+    at TestController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\test.js:10:41)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 7776
+hostname: TB
+
+2020-07-31 18:17:59,679 ERROR 8080 [-/127.0.0.1/-/4ms GET /test] nodejs.TypeError: Cannot read property 'query' of undefined
+    at TestService.test (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\test.js:8:39)
+    at TestController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\test.js:10:41)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 8080
+hostname: TB
+
+2020-07-31 18:27:45,650 ERROR 26440 [-/127.0.0.1/-/4ms GET /test] nodejs.TypeError: Cannot read property 'select' of undefined
+    at TestService.test (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\test.js:8:39)
+    at TestController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\test.js:10:41)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 26440
+hostname: TB
+
+2020-07-31 18:27:52,235 ERROR 26440 [-/127.0.0.1/-/1ms GET /test] nodejs.TypeError: Cannot read property 'select' of undefined
+    at TestService.test (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\test.js:8:39)
+    at TestController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\test.js:10:41)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 26440
+hostname: TB
+
+2020-07-31 18:27:52,651 ERROR 26440 [-/127.0.0.1/-/1ms GET /test] nodejs.TypeError: Cannot read property 'select' of undefined
+    at TestService.test (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\test.js:8:39)
+    at TestController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\test.js:10:41)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 26440
+hostname: TB
+
+2020-08-06 10:32:01,931 ERROR 23412 [-/127.0.0.1/-/6ms GET /users] nodejs.TypeError: Cannot destructure property `offset` of 'undefined' or 'null'.
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:6:14)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 23412
+hostname: TB
+
+2020-08-06 10:32:04,156 ERROR 23412 [-/127.0.0.1/-/1ms GET /users] nodejs.TypeError: Cannot destructure property `offset` of 'undefined' or 'null'.
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:6:14)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 23412
+hostname: TB
+
+2020-08-06 10:35:13,039 ERROR 22500 [-/127.0.0.1/-/4ms GET /users] nodejs.ReferenceError: offset is not defined
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:8:7)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+
+pid: 22500
+hostname: TB
+
+2020-08-06 10:38:36,711 ERROR 14844 [-/127.0.0.1/-/89ms GET /users] nodejs.SequelizeDatabaseError: Table 'localhost.users' doesn't exist
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.rawSelect (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1168:27)
+    at Function.aggregate (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1995:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2049:19
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.count (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2031:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2101:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+sql: "SELECT count(*) AS `count` FROM `users` AS `user`;"
+parameters: undefined
+pid: 14844
+hostname: TB
+
+2020-08-06 10:41:44,314 ERROR 2668 [-/undefined/-/257ms GET /users] nodejs.SequelizeDatabaseError: Table 'localhost.users' doesn't exist
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.rawSelect (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1168:27)
+    at Function.aggregate (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1995:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2049:19
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.count (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2031:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2101:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+sql: "SELECT count(*) AS `count` FROM `users` AS `user`;"
+parameters: undefined
+headerSent: true
+pid: 2668
+hostname: TB
+
+2020-08-06 10:41:52,553 ERROR 2668 [-/127.0.0.1/-/21ms GET /users] nodejs.SequelizeDatabaseError: Table 'localhost.users' doesn't exist
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.rawSelect (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1168:27)
+    at Function.aggregate (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1995:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2049:19
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.count (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2031:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2101:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+sql: "SELECT count(*) AS `count` FROM `users` AS `user`;"
+parameters: undefined
+pid: 2668
+hostname: TB
+
+2020-08-06 10:43:28,006 ERROR 17016 [-/127.0.0.1/-/0ms GET /] nodejs.EPERMError: EPERM: operation not permitted, open 'E:\liuyu\egg\egg-nuxt-ssr\test\.nuxt\App.js'
+EPERMError: EPERM: operation not permitted, open 'E:\liuyu\egg\egg-nuxt-ssr\test\.nuxt\App.js'
+errno: -4048
+code: "EPERM"
+syscall: "open"
+path: "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\.nuxt\\App.js"
+name: "EPERMError"
+pid: 17016
+hostname: TB
+
+2020-08-06 10:59:48,088 ERROR 12816 [-/127.0.0.1/-/339ms GET /users] nodejs.SequelizeDatabaseError: Table 'localhost.users' doesn't exist
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.rawSelect (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1168:27)
+    at Function.aggregate (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1995:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2049:19
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.count (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2031:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2101:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+sql: "SELECT count(*) AS `count` FROM `users` AS `user`;"
+parameters: undefined
+pid: 12816
+hostname: TB
+
+2020-08-06 11:00:09,574 ERROR 12816 [-/127.0.0.1/-/19ms GET /users] nodejs.SequelizeDatabaseError: Table 'localhost.users' doesn't exist
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.rawSelect (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1168:27)
+    at Function.aggregate (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1995:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2049:19
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.count (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2031:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2101:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+sql: "SELECT count(*) AS `count` FROM `users` AS `user`;"
+parameters: undefined
+pid: 12816
+hostname: TB
+
+2020-08-06 11:02:27,578 ERROR 26140 [-/127.0.0.1/-/88ms GET /user] nodejs.SequelizeDatabaseError: Table 'localhost.users' doesn't exist
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.rawSelect (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1168:27)
+    at Function.aggregate (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1995:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2049:19
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.count (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2031:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2101:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+sql: "SELECT count(*) AS `count` FROM `users` AS `user`;"
+parameters: undefined
+pid: 26140
+hostname: TB
+
+2020-08-06 11:07:12,907 ERROR 25692 [-/127.0.0.1/-/59ms GET /user] nodejs.SequelizeDatabaseError: Table 'localhost.users' doesn't exist
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.rawSelect (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1168:27)
+    at Function.aggregate (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1995:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2049:19
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.count (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2031:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2101:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+original: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlState":"42S02","sqlMessage":"Table 'localhost.users' doesn't exist","sql":"SELECT count(*) AS `count` FROM `users` AS `user`;"}
+sql: "SELECT count(*) AS `count` FROM `users` AS `user`;"
+parameters: undefined
+pid: 25692
+hostname: TB
+
+2020-08-06 11:08:37,081 ERROR 25692 [-/127.0.0.1/-/37ms GET /user] nodejs.SequelizeDatabaseError: Unknown column 'created_at' in 'field list'
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.select (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1126:27)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1759:34
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.findAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1757:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2102:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+original: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+sql: "SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"
+parameters: undefined
+pid: 25692
+hostname: TB
+
+2020-08-06 11:11:57,897 ERROR 9064 [-/127.0.0.1/-/131ms GET /user] nodejs.SequelizeDatabaseError: Unknown column 'created_at' in 'field list'
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.select (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1126:27)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1759:34
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.findAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1757:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2102:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+original: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+sql: "SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"
+parameters: undefined
+pid: 9064
+hostname: TB
+
+2020-08-06 11:11:59,531 ERROR 9064 [-/127.0.0.1/-/19ms GET /user] nodejs.SequelizeDatabaseError: Unknown column 'created_at' in 'field list'
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.select (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1126:27)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1759:34
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.findAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1757:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2102:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+original: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+sql: "SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"
+parameters: undefined
+pid: 9064
+hostname: TB
+
+2020-08-06 11:11:59,731 ERROR 9064 [-/127.0.0.1/-/42ms GET /user] nodejs.SequelizeDatabaseError: Unknown column 'created_at' in 'field list'
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.select (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1126:27)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1759:34
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.findAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1757:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2102:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+original: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+sql: "SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"
+parameters: undefined
+pid: 9064
+hostname: TB
+
+2020-08-06 11:17:42,351 ERROR 23064 [-/127.0.0.1/-/89ms GET /user] nodejs.SequelizeDatabaseError: Unknown column 'created_at' in 'field list'
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Query.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Query.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.select (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:1126:27)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1759:34
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at Function.findAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:1757:8)
+    at Function.findAndCountAll (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2102:12)
+    at User.list (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:7:32)
+    at UserController.index (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:9:39)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+original: {"code":"ER_BAD_FIELD_ERROR","errno":1054,"sqlState":"42S22","sqlMessage":"Unknown column 'created_at' in 'field list'","sql":"SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"}
+sql: "SELECT `id`, `name`, `desc`, `created_at` AS `createdAt`, `updated_at` AS `updatedAt` FROM `users` AS `user`;"
+parameters: undefined
+pid: 23064
+hostname: TB
+
+2020-08-06 17:33:16,627 ERROR 17352 [-/127.0.0.1/-/97ms POST /user] nodejs.SequelizeDatabaseError: Column 'id' cannot be null
+    at Query.formatError (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:244:16)
+    at Execute.handler [as onResult] (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:51:23)
+    at Execute.execute (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\commands\command.js:30:14)
+    at Connection.handlePacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:417:32)
+    at PacketParser.onPacket (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:75:12)
+    at PacketParser.executeStart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\mysql2\lib\connection.js:82:25)
+    at Socket.emit (events.js:210:5)
+    at Socket.EventEmitter.emit (domain.js:476:20)
+    at addChunk (_stream_readable.js:308:12)
+    at readableAddChunk (_stream_readable.js:289:11)
+    at Socket.Readable.push (_stream_readable.js:223:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:182:23)
+From previous event:
+    at Query.run (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\dialects\mysql\query.js:39:12)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:29
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:655:12
+From previous event:
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:651:10
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:70:21
+    at new Promise (<anonymous>)
+    at retryAsPromised (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\retry-as-promised\index.js:60:10)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:641:30
+From previous event:
+    at Sequelize.query (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\sequelize.js:590:23)
+    at QueryInterface.insert (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\query-interface.js:890:27)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:3989:52
+    at processImmediate (internal/timers.js:439:21)
+    at process.topLevelDomainCallback (domain.js:131:23)
+From previous event:
+    at model.save (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:3966:8)
+    at Function.create (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\sequelize\lib\model.js:2230:8)
+    at User.create (E:\liuyu\egg\egg-nuxt-ssr\test\app\service\user.js:11:32)
+    at UserController.create (E:\liuyu\egg\egg-nuxt-ssr\test\app\controller\user.js:13:41)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at next (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:45:18)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:44:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at multipart (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-multipart\app\middleware\multipart.js:10:38)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at dta (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\node_modules\koa-compose\index.js:42:32)
+    at xframe (E:\liuyu\egg\egg-nuxt-ssr\test\node_modules\egg-security\lib\middlewares\xframe.js:7:11)
+name: "SequelizeDatabaseError"
+parent: {"code":"ER_BAD_NULL_ERROR","errno":1048,"sqlState":"23000","sqlMessage":"Column 'id' cannot be null","sql":"INSERT INTO `users` (`id`,`created_at`,`updated_at`) VALUES (?,?,?);","parameters":[null,"2020-08-06 17:33:16","2020-08-06 17:33:16"]}
+original: {"code":"ER_BAD_NULL_ERROR","errno":1048,"sqlState":"23000","sqlMessage":"Column 'id' cannot be null","sql":"INSERT INTO `users` (`id`,`created_at`,`updated_at`) VALUES (?,?,?);","parameters":[null,"2020-08-06 17:33:16","2020-08-06 17:33:16"]}
+sql: "INSERT INTO `users` (`id`,`created_at`,`updated_at`) VALUES (?,?,?);"
+parameters: [null,"2020-08-06 17:33:16","2020-08-06 17:33:16"]
+headers: {"Access-Control-Allow-Origin":"http://localhost:3000","vary":"Origin"}
+pid: 17352
+hostname: TB
+
+2020-08-07 10:31:31,022 ERROR 19460 [-/127.0.0.1/-/1ms GET /] nodejs.EPERMError: EPERM: operation not permitted, mkdir 'E:\liuyu\egg\egg-nuxt-ssr\test\.nuxt\components'
+EPERMError: EPERM: operation not permitted, mkdir 'E:\liuyu\egg\egg-nuxt-ssr\test\.nuxt\components'
+errno: -4048
+code: "EPERM"
+syscall: "mkdir"
+path: "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\.nuxt\\components"
+name: "EPERMError"
+pid: 19460
+hostname: TB
+

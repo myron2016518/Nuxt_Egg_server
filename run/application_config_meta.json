@@ -1,0 +1,324 @@
+{
+  "keys": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+  "middleware": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+  "logger": {
+    "dir": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "appLogName": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "coreLogName": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "agentLogName": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "errorLogName": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "encoding": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "allowDebugAtProd": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "jsonLimit": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "formLimit": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "encoding": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "enableTypes": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "extendTypes": {
+      "text": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js"
+    },
+    "textLimit": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "whitelist": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.default.js",
+    "autoFields": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "redis": {
+    "client": {
+      "port": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+      "host": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+      "password": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+      "db": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js"
+    }
+  },
+  "sequelize": {
+    "dialect": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+    "host": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+    "port": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+    "database": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+    "username": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+    "password": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+    "timezone": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js"
+  },
+  "cluster": {
+    "listen": {
+      "path": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+      "port": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+      "hostname": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+      "ignoreJSON": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+      "type": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\config\\config.prod.js",
+    "protocolWhiteList": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "maxAge": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-watcher\\config\\config.default.js",
+    "eventSources": {
+      "default": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-static\\config\\config.prod.js",
+    "maxFiles": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-static\\config\\config.default.js",
+    "maxAge": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-static\\config\\config.prod.js"
+  },
+  "view": {
+    "root": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultExtension": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "cors": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg-cors\\config\\config.default.js",
+  "env": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "private": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "cross-env": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "element-ui": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "font-awesome": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "nuxt": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "vue-baidu-map": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-cors": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-logrotator": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-sequelize": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "mysql2": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-multipart": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-redis": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-schedule": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "moment": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "umi-request": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "eslint-plugin-vue": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "stop": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "asyncdb": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "test": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "cov": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "ci": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\liuyu\\egg\\egg-nuxt-ssr\\test\\node_modules\\egg\\config\\config.default.js"
+}
